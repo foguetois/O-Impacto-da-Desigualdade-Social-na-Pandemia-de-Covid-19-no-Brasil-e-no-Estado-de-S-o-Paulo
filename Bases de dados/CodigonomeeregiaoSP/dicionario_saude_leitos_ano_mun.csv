@@ -1,0 +1,6 @@
+Variável;Tipo;Descrição;Fonte;Ano
+cod_ibge;numérico;Código IBGE do Município;IBGE;2020
+municipio;texto;Nome do Municipio;IBGE;2020
+ano;numérico;Ano;Ministério da Saúde. Cadastro Nacional de Estabelecimentos de Saúde (CNES) Dez. de 2019. Fundação Seade;2019
+leitos_sus;numérico;Leitos SUS;Ministério da Saúde. Cadastro Nacional de Estabelecimentos de Saúde (CNES) Dez. de 2019. Fundação Seade;2019
+leitos_nsus;numérico;Leitos Não SUS;Ministério da Saúde. Cadastro Nacional de Estabelecimentos de Saúde (CNES) Dez. de 2019. Fundação Seade;2019

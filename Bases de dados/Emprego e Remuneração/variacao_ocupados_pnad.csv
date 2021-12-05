@@ -1,0 +1,811 @@
+Data;Região;Setor;Variação
+01/06/2017;Estado de São Paulo;Agricultura, pecuária e pesca;8913,272268
+01/09/2017;Estado de São Paulo;Agricultura, pecuária e pesca;22464,8405
+01/12/2017;Estado de São Paulo;Agricultura, pecuária e pesca;40833,19264
+01/03/2018;Estado de São Paulo;Agricultura, pecuária e pesca;970,9095185
+01/06/2018;Estado de São Paulo;Agricultura, pecuária e pesca;-4334,439252
+01/09/2018;Estado de São Paulo;Agricultura, pecuária e pesca;31817,13092
+01/12/2018;Estado de São Paulo;Agricultura, pecuária e pesca;10412,88306
+01/03/2019;Estado de São Paulo;Agricultura, pecuária e pesca;-27936,05208
+01/06/2019;Estado de São Paulo;Agricultura, pecuária e pesca;13910,37144
+01/09/2019;Estado de São Paulo;Agricultura, pecuária e pesca;20115,37299
+01/12/2019;Estado de São Paulo;Agricultura, pecuária e pesca;13090,11654
+01/03/2020;Estado de São Paulo;Agricultura, pecuária e pesca;-44934,85891
+01/06/2020;Estado de São Paulo;Agricultura, pecuária e pesca;3176,765076
+01/09/2020;Estado de São Paulo;Agricultura, pecuária e pesca;85665,94178
+01/12/2020;Estado de São Paulo;Agricultura, pecuária e pesca;-9702,670448
+01/03/2021;Estado de São Paulo;Agricultura, pecuária e pesca;-22003,38632
+01/06/2021;Estado de São Paulo;Agricultura, pecuária e pesca;-44081,71914
+01/06/2017;Estado de São Paulo;Indústria;153411,9548
+01/09/2017;Estado de São Paulo;Indústria;-43510,20131
+01/12/2017;Estado de São Paulo;Indústria;170260,771
+01/03/2018;Estado de São Paulo;Indústria;-109976,2069
+01/06/2018;Estado de São Paulo;Indústria;24505,92833
+01/09/2018;Estado de São Paulo;Indústria;41765,84458
+01/12/2018;Estado de São Paulo;Indústria;-76425,98314
+01/03/2019;Estado de São Paulo;Indústria;-39285,64886
+01/06/2019;Estado de São Paulo;Indústria;154409,3437
+01/09/2019;Estado de São Paulo;Indústria;-52055,80916
+01/12/2019;Estado de São Paulo;Indústria;70249,73982
+01/03/2020;Estado de São Paulo;Indústria;-71225,40252
+01/06/2020;Estado de São Paulo;Indústria;-341227,0406
+01/09/2020;Estado de São Paulo;Indústria;-104173,3664
+01/12/2020;Estado de São Paulo;Indústria;181947,1069
+01/03/2021;Estado de São Paulo;Indústria;83607,17076
+01/06/2021;Estado de São Paulo;Indústria;-52551,49321
+01/06/2017;Estado de São Paulo;Construção;62926,97733
+01/09/2017;Estado de São Paulo;Construção;13014,82256
+01/12/2017;Estado de São Paulo;Construção;-40676,12034
+01/03/2018;Estado de São Paulo;Construção;-64309,94935
+01/06/2018;Estado de São Paulo;Construção;24243,39273
+01/09/2018;Estado de São Paulo;Construção;48879,03343
+01/12/2018;Estado de São Paulo;Construção;-62195,59705
+01/03/2019;Estado de São Paulo;Construção;-40902,52641
+01/06/2019;Estado de São Paulo;Construção;13054,65545
+01/09/2019;Estado de São Paulo;Construção;117571,2813
+01/12/2019;Estado de São Paulo;Construção;-131365,6729
+01/03/2020;Estado de São Paulo;Construção;-1850,636868
+01/06/2020;Estado de São Paulo;Construção;-232598,1968
+01/09/2020;Estado de São Paulo;Construção;78934,67812
+01/12/2020;Estado de São Paulo;Construção;-53418,05203
+01/03/2021;Estado de São Paulo;Construção;12446,372
+01/06/2021;Estado de São Paulo;Construção;59773,17609
+01/06/2017;Estado de São Paulo;Comércio;94435,70304
+01/09/2017;Estado de São Paulo;Comércio;39456,93585
+01/12/2017;Estado de São Paulo;Comércio;-23139,31538
+01/03/2018;Estado de São Paulo;Comércio;-30894,6566
+01/06/2018;Estado de São Paulo;Comércio;103732,1369
+01/09/2018;Estado de São Paulo;Comércio;-35728,61486
+01/12/2018;Estado de São Paulo;Comércio;28584,3519
+01/03/2019;Estado de São Paulo;Comércio;-45301,80894
+01/06/2019;Estado de São Paulo;Comércio;-45851,99308
+01/09/2019;Estado de São Paulo;Comércio;29305,18121
+01/12/2019;Estado de São Paulo;Comércio;22173,26291
+01/03/2020;Estado de São Paulo;Comércio;-87287,61074
+01/06/2020;Estado de São Paulo;Comércio;-583311,5856
+01/09/2020;Estado de São Paulo;Comércio;57125,90103
+01/12/2020;Estado de São Paulo;Comércio;276674,0745
+01/03/2021;Estado de São Paulo;Comércio;-153346,5722
+01/06/2021;Estado de São Paulo;Comércio;75262,70234
+01/06/2017;Estado de São Paulo;Serviços;-52440,11703
+01/09/2017;Estado de São Paulo;Serviços;147665,8837
+01/12/2017;Estado de São Paulo;Serviços;-123183,1078
+01/03/2018;Estado de São Paulo;Serviços;82521,73345
+01/06/2018;Estado de São Paulo;Serviços;-40733,34758
+01/09/2018;Estado de São Paulo;Serviços;256316,1343
+01/12/2018;Estado de São Paulo;Serviços;218894,6454
+01/03/2019;Estado de São Paulo;Serviços;81101,30675
+01/06/2019;Estado de São Paulo;Serviços;157948,4111
+01/09/2019;Estado de São Paulo;Serviços;46306,35304
+01/12/2019;Estado de São Paulo;Serviços;153524,9705
+01/03/2020;Estado de São Paulo;Serviços;-164355,7301
+01/06/2020;Estado de São Paulo;Serviços;-927980,2056
+01/09/2020;Estado de São Paulo;Serviços;-350875,3176
+01/12/2020;Estado de São Paulo;Serviços;303077,0164
+01/03/2021;Estado de São Paulo;Serviços;171919,9994
+01/06/2021;Estado de São Paulo;Serviços;351362,2073
+01/06/2017;Região Metropolitana de São Paulo;Agricultura, pecuária e pesca;-846,275013
+01/09/2017;Região Metropolitana de São Paulo;Agricultura, pecuária e pesca;-2580,595859
+01/12/2017;Região Metropolitana de São Paulo;Agricultura, pecuária e pesca;-1709,238216
+01/03/2018;Região Metropolitana de São Paulo;Agricultura, pecuária e pesca;2607,256998
+01/06/2018;Região Metropolitana de São Paulo;Agricultura, pecuária e pesca;-10614,38802
+01/09/2018;Região Metropolitana de São Paulo;Agricultura, pecuária e pesca;7516,878763
+01/12/2018;Região Metropolitana de São Paulo;Agricultura, pecuária e pesca;2585,357565
+01/03/2019;Região Metropolitana de São Paulo;Agricultura, pecuária e pesca;-8283,422512
+01/06/2019;Região Metropolitana de São Paulo;Agricultura, pecuária e pesca;906,0406315
+01/09/2019;Região Metropolitana de São Paulo;Agricultura, pecuária e pesca;597,1213393
+01/12/2019;Região Metropolitana de São Paulo;Agricultura, pecuária e pesca;-1053,650005
+01/03/2020;Região Metropolitana de São Paulo;Agricultura, pecuária e pesca;3042,344439
+01/06/2020;Região Metropolitana de São Paulo;Agricultura, pecuária e pesca;-5514,253665
+01/09/2020;Região Metropolitana de São Paulo;Agricultura, pecuária e pesca;-2278,168701
+01/12/2020;Região Metropolitana de São Paulo;Agricultura, pecuária e pesca;13836,5325
+01/03/2021;Região Metropolitana de São Paulo;Agricultura, pecuária e pesca;-8597,188851
+01/06/2021;Região Metropolitana de São Paulo;Agricultura, pecuária e pesca;14486,50986
+01/06/2017;Região Metropolitana de São Paulo;Indústria;72989,40814
+01/09/2017;Região Metropolitana de São Paulo;Indústria;-65200,83421
+01/12/2017;Região Metropolitana de São Paulo;Indústria;92754,04491
+01/03/2018;Região Metropolitana de São Paulo;Indústria;-21656,59175
+01/06/2018;Região Metropolitana de São Paulo;Indústria;862,7211761
+01/09/2018;Região Metropolitana de São Paulo;Indústria;15086,76082
+01/12/2018;Região Metropolitana de São Paulo;Indústria;-70376,76131
+01/03/2019;Região Metropolitana de São Paulo;Indústria;-5055,141425
+01/06/2019;Região Metropolitana de São Paulo;Indústria;21679,53551
+01/09/2019;Região Metropolitana de São Paulo;Indústria;-30659,19744
+01/12/2019;Região Metropolitana de São Paulo;Indústria;35885,41173
+01/03/2020;Região Metropolitana de São Paulo;Indústria;-70902,52667
+01/06/2020;Região Metropolitana de São Paulo;Indústria;-198126,4794
+01/09/2020;Região Metropolitana de São Paulo;Indústria;40169,14337
+01/12/2020;Região Metropolitana de São Paulo;Indústria;67915,7552
+01/03/2021;Região Metropolitana de São Paulo;Indústria;164077,7366
+01/06/2021;Região Metropolitana de São Paulo;Indústria;-111525,0978
+01/06/2017;Região Metropolitana de São Paulo;Construção;24426,15898
+01/09/2017;Região Metropolitana de São Paulo;Construção;16117,135
+01/12/2017;Região Metropolitana de São Paulo;Construção;-8086,665949
+01/03/2018;Região Metropolitana de São Paulo;Construção;-17294,2244
+01/06/2018;Região Metropolitana de São Paulo;Construção;29923,20964
+01/09/2018;Região Metropolitana de São Paulo;Construção;8508,44156
+01/12/2018;Região Metropolitana de São Paulo;Construção;-49148,33481
+01/03/2019;Região Metropolitana de São Paulo;Construção;-8583,575445
+01/06/2019;Região Metropolitana de São Paulo;Construção;23536,81741
+01/09/2019;Região Metropolitana de São Paulo;Construção;40860,14442
+01/12/2019;Região Metropolitana de São Paulo;Construção;-77527,41151
+01/03/2020;Região Metropolitana de São Paulo;Construção;-27227,35692
+01/06/2020;Região Metropolitana de São Paulo;Construção;-90206,21866
+01/09/2020;Região Metropolitana de São Paulo;Construção;73848,75897
+01/12/2020;Região Metropolitana de São Paulo;Construção;-13474,56438
+01/03/2021;Região Metropolitana de São Paulo;Construção;23004,00801
+01/06/2021;Região Metropolitana de São Paulo;Construção;11240,09705
+01/06/2017;Região Metropolitana de São Paulo;Comércio;84551,1017
+01/09/2017;Região Metropolitana de São Paulo;Comércio;67791,02454
+01/12/2017;Região Metropolitana de São Paulo;Comércio;-56849,01259
+01/03/2018;Região Metropolitana de São Paulo;Comércio;22780,55628
+01/06/2018;Região Metropolitana de São Paulo;Comércio;46299,9092
+01/09/2018;Região Metropolitana de São Paulo;Comércio;-63092,17499
+01/12/2018;Região Metropolitana de São Paulo;Comércio;12829,99886
+01/03/2019;Região Metropolitana de São Paulo;Comércio;-36070,86828
+01/06/2019;Região Metropolitana de São Paulo;Comércio;16191,67263
+01/09/2019;Região Metropolitana de São Paulo;Comércio;12870,7246
+01/12/2019;Região Metropolitana de São Paulo;Comércio;-25788,45314
+01/03/2020;Região Metropolitana de São Paulo;Comércio;65866,33289
+01/06/2020;Região Metropolitana de São Paulo;Comércio;-345414,337
+01/09/2020;Região Metropolitana de São Paulo;Comércio;95096,62665
+01/12/2020;Região Metropolitana de São Paulo;Comércio;27036,98623
+01/03/2021;Região Metropolitana de São Paulo;Comércio;-52836,84461
+01/06/2021;Região Metropolitana de São Paulo;Comércio;26879,74069
+01/06/2017;Região Metropolitana de São Paulo;Serviços;-44354,24293
+01/09/2017;Região Metropolitana de São Paulo;Serviços;119165,1629
+01/12/2017;Região Metropolitana de São Paulo;Serviços;-51467,65533
+01/03/2018;Região Metropolitana de São Paulo;Serviços;21553,98258
+01/06/2018;Região Metropolitana de São Paulo;Serviços;-136433,0486
+01/09/2018;Região Metropolitana de São Paulo;Serviços;181368,1311
+01/12/2018;Região Metropolitana de São Paulo;Serviços;92990,71814
+01/03/2019;Região Metropolitana de São Paulo;Serviços;-32053,48266
+01/06/2019;Região Metropolitana de São Paulo;Serviços;136412,4271
+01/09/2019;Região Metropolitana de São Paulo;Serviços;111842,1185
+01/12/2019;Região Metropolitana de São Paulo;Serviços;54553,90272
+01/03/2020;Região Metropolitana de São Paulo;Serviços;-177528,5889
+01/06/2020;Região Metropolitana de São Paulo;Serviços;-449249,4037
+01/09/2020;Região Metropolitana de São Paulo;Serviços;-142303,7096
+01/12/2020;Região Metropolitana de São Paulo;Serviços;149114,2425
+01/03/2021;Região Metropolitana de São Paulo;Serviços;143417,3825
+01/06/2021;Região Metropolitana de São Paulo;Serviços;274032,487
+01/06/2017;ESP exceto RMSP;Agricultura, pecuária e pesca;9759,547281
+01/09/2017;ESP exceto RMSP;Agricultura, pecuária e pesca;25045,43635
+01/12/2017;ESP exceto RMSP;Agricultura, pecuária e pesca;42542,43085
+01/03/2018;ESP exceto RMSP;Agricultura, pecuária e pesca;-1636,34748
+01/06/2018;ESP exceto RMSP;Agricultura, pecuária e pesca;6279,948768
+01/09/2018;ESP exceto RMSP;Agricultura, pecuária e pesca;24300,25216
+01/12/2018;ESP exceto RMSP;Agricultura, pecuária e pesca;7827,525491
+01/03/2019;ESP exceto RMSP;Agricultura, pecuária e pesca;-19652,62957
+01/06/2019;ESP exceto RMSP;Agricultura, pecuária e pesca;13004,33081
+01/09/2019;ESP exceto RMSP;Agricultura, pecuária e pesca;19518,25165
+01/12/2019;ESP exceto RMSP;Agricultura, pecuária e pesca;14143,76654
+01/03/2020;ESP exceto RMSP;Agricultura, pecuária e pesca;-47977,20335
+01/06/2020;ESP exceto RMSP;Agricultura, pecuária e pesca;8691,018741
+01/09/2020;ESP exceto RMSP;Agricultura, pecuária e pesca;87944,11048
+01/12/2020;ESP exceto RMSP;Agricultura, pecuária e pesca;-23539,20294
+01/03/2021;ESP exceto RMSP;Agricultura, pecuária e pesca;-13406,19747
+01/06/2021;ESP exceto RMSP;Agricultura, pecuária e pesca;-58568,22901
+01/06/2017;ESP exceto RMSP;Indústria;80422,54661
+01/09/2017;ESP exceto RMSP;Indústria;21690,6329
+01/12/2017;ESP exceto RMSP;Indústria;77506,72605
+01/03/2018;ESP exceto RMSP;Indústria;-88319,61516
+01/06/2018;ESP exceto RMSP;Indústria;23643,20715
+01/09/2018;ESP exceto RMSP;Indústria;26679,08376
+01/12/2018;ESP exceto RMSP;Indústria;-6049,22183
+01/03/2019;ESP exceto RMSP;Indústria;-34230,50744
+01/06/2019;ESP exceto RMSP;Indústria;132729,8082
+01/09/2019;ESP exceto RMSP;Indústria;-21396,61172
+01/12/2019;ESP exceto RMSP;Indústria;34364,32808
+01/03/2020;ESP exceto RMSP;Indústria;-322,8758501
+01/06/2020;ESP exceto RMSP;Indústria;-143100,5612
+01/09/2020;ESP exceto RMSP;Indústria;-144342,5098
+01/12/2020;ESP exceto RMSP;Indústria;114031,3517
+01/03/2021;ESP exceto RMSP;Indústria;-80470,56583
+01/06/2021;ESP exceto RMSP;Indústria;58973,60456
+01/06/2017;ESP exceto RMSP;Construção;38500,81834
+01/09/2017;ESP exceto RMSP;Construção;-3102,312446
+01/12/2017;ESP exceto RMSP;Construção;-32589,45439
+01/03/2018;ESP exceto RMSP;Construção;-47015,72496
+01/06/2018;ESP exceto RMSP;Construção;-5679,81691
+01/09/2018;ESP exceto RMSP;Construção;40370,59187
+01/12/2018;ESP exceto RMSP;Construção;-13047,26223
+01/03/2019;ESP exceto RMSP;Construção;-32318,95097
+01/06/2019;ESP exceto RMSP;Construção;-10482,16197
+01/09/2019;ESP exceto RMSP;Construção;76711,13688
+01/12/2019;ESP exceto RMSP;Construção;-53838,26142
+01/03/2020;ESP exceto RMSP;Construção;25376,72005
+01/06/2020;ESP exceto RMSP;Construção;-142391,9781
+01/09/2020;ESP exceto RMSP;Construção;5085,919149
+01/12/2020;ESP exceto RMSP;Construção;-39943,48766
+01/03/2021;ESP exceto RMSP;Construção;-10557,636
+01/06/2021;ESP exceto RMSP;Construção;48533,07905
+01/06/2017;ESP exceto RMSP;Comércio;9884,601341
+01/09/2017;ESP exceto RMSP;Comércio;-28334,08869
+01/12/2017;ESP exceto RMSP;Comércio;33709,69721
+01/03/2018;ESP exceto RMSP;Comércio;-53675,21288
+01/06/2018;ESP exceto RMSP;Comércio;57432,22774
+01/09/2018;ESP exceto RMSP;Comércio;27363,56013
+01/12/2018;ESP exceto RMSP;Comércio;15754,35304
+01/03/2019;ESP exceto RMSP;Comércio;-9230,940669
+01/06/2019;ESP exceto RMSP;Comércio;-62043,6657
+01/09/2019;ESP exceto RMSP;Comércio;16434,4566
+01/12/2019;ESP exceto RMSP;Comércio;47961,71605
+01/03/2020;ESP exceto RMSP;Comércio;-153153,9436
+01/06/2020;ESP exceto RMSP;Comércio;-237897,2486
+01/09/2020;ESP exceto RMSP;Comércio;-37970,72562
+01/12/2020;ESP exceto RMSP;Comércio;249637,0883
+01/03/2021;ESP exceto RMSP;Comércio;-100509,7276
+01/06/2021;ESP exceto RMSP;Comércio;48382,96165
+01/06/2017;ESP exceto RMSP;Serviços;-8085,874096
+01/09/2017;ESP exceto RMSP;Serviços;28500,72086
+01/12/2017;ESP exceto RMSP;Serviços;-71715,45251
+01/03/2018;ESP exceto RMSP;Serviços;60967,75086
+01/06/2018;ESP exceto RMSP;Serviços;95699,70102
+01/09/2018;ESP exceto RMSP;Serviços;74948,00326
+01/12/2018;ESP exceto RMSP;Serviços;125903,9272
+01/03/2019;ESP exceto RMSP;Serviços;113154,7894
+01/06/2019;ESP exceto RMSP;Serviços;21535,984
+01/09/2019;ESP exceto RMSP;Serviços;-65535,76549
+01/12/2019;ESP exceto RMSP;Serviços;98971,06783
+01/03/2020;ESP exceto RMSP;Serviços;13172,85883
+01/06/2020;ESP exceto RMSP;Serviços;-478730,8019
+01/09/2020;ESP exceto RMSP;Serviços;-208571,6081
+01/12/2020;ESP exceto RMSP;Serviços;153962,774
+01/03/2021;ESP exceto RMSP;Serviços;28502,61694
+01/06/2021;ESP exceto RMSP;Serviços;77329,72032
+01/06/2017;Município de São Paulo;Agricultura, pecuária e pesca;-5104,776718
+01/09/2017;Município de São Paulo;Agricultura, pecuária e pesca;-1909,068673
+01/12/2017;Município de São Paulo;Agricultura, pecuária e pesca;-3870,115827
+01/03/2018;Município de São Paulo;Agricultura, pecuária e pesca;2742,498744
+01/06/2018;Município de São Paulo;Agricultura, pecuária e pesca;-4899,188447
+01/09/2018;Município de São Paulo;Agricultura, pecuária e pesca;1204,637364
+01/12/2018;Município de São Paulo;Agricultura, pecuária e pesca;-1025,880861
+01/03/2019;Município de São Paulo;Agricultura, pecuária e pesca;1262,456865
+01/06/2019;Município de São Paulo;Agricultura, pecuária e pesca;3259,03068
+01/09/2019;Município de São Paulo;Agricultura, pecuária e pesca;2250,503952
+01/12/2019;Município de São Paulo;Agricultura, pecuária e pesca;-4820,424149
+01/03/2020;Município de São Paulo;Agricultura, pecuária e pesca;4978,487478
+01/06/2020;Município de São Paulo;Agricultura, pecuária e pesca;-2348,546529
+01/09/2020;Município de São Paulo;Agricultura, pecuária e pesca;-7126,912006
+01/12/2020;Município de São Paulo;Agricultura, pecuária e pesca;9211,088113
+01/03/2021;Município de São Paulo;Agricultura, pecuária e pesca;-10518,76386
+01/06/2021;Município de São Paulo;Agricultura, pecuária e pesca;-536,3755046
+01/06/2017;Município de São Paulo;Indústria;1090,522044
+01/09/2017;Município de São Paulo;Indústria;-7906,667115
+01/12/2017;Município de São Paulo;Indústria;16910,45072
+01/03/2018;Município de São Paulo;Indústria;-54796,93967
+01/06/2018;Município de São Paulo;Indústria;35612,71071
+01/09/2018;Município de São Paulo;Indústria;-36888,69685
+01/12/2018;Município de São Paulo;Indústria;10842,01736
+01/03/2019;Município de São Paulo;Indústria;12124,69319
+01/06/2019;Município de São Paulo;Indústria;-16814,91649
+01/09/2019;Município de São Paulo;Indústria;15742,29117
+01/12/2019;Município de São Paulo;Indústria;27796,49527
+01/03/2020;Município de São Paulo;Indústria;-74001,07561
+01/06/2020;Município de São Paulo;Indústria;-97672,05909
+01/09/2020;Município de São Paulo;Indústria;26815,85446
+01/12/2020;Município de São Paulo;Indústria;-58760,06913
+01/03/2021;Município de São Paulo;Indústria;42221,45907
+01/06/2021;Município de São Paulo;Indústria;89248,64625
+01/06/2017;Município de São Paulo;Construção;18694,94753
+01/09/2017;Município de São Paulo;Construção;-5426,074293
+01/12/2017;Município de São Paulo;Construção;-10686,95181
+01/03/2018;Município de São Paulo;Construção;-6866,313767
+01/06/2018;Município de São Paulo;Construção;10164,27234
+01/09/2018;Município de São Paulo;Construção;-5770,764866
+01/12/2018;Município de São Paulo;Construção;-14502,62287
+01/03/2019;Município de São Paulo;Construção;8508,114329
+01/06/2019;Município de São Paulo;Construção;-3696,118633
+01/09/2019;Município de São Paulo;Construção;23789,28883
+01/12/2019;Município de São Paulo;Construção;-32741,01922
+01/03/2020;Município de São Paulo;Construção;-2936,816804
+01/06/2020;Município de São Paulo;Construção;-55620,00463
+01/09/2020;Município de São Paulo;Construção;42643,57644
+01/12/2020;Município de São Paulo;Construção;-4294,510178
+01/03/2021;Município de São Paulo;Construção;11740,22801
+01/06/2021;Município de São Paulo;Construção;-34661,50817
+01/06/2017;Município de São Paulo;Comércio;52584,83296
+01/09/2017;Município de São Paulo;Comércio;-8265,371746
+01/12/2017;Município de São Paulo;Comércio;-50844,19581
+01/03/2018;Município de São Paulo;Comércio;9746,985196
+01/06/2018;Município de São Paulo;Comércio;15937,04087
+01/09/2018;Município de São Paulo;Comércio;-17543,795
+01/12/2018;Município de São Paulo;Comércio;16874,46951
+01/03/2019;Município de São Paulo;Comércio;-771,5022912
+01/06/2019;Município de São Paulo;Comércio;1817,838683
+01/09/2019;Município de São Paulo;Comércio;-8678,992923
+01/12/2019;Município de São Paulo;Comércio;-38947,71868
+01/03/2020;Município de São Paulo;Comércio;51414,85936
+01/06/2020;Município de São Paulo;Comércio;-150128,6543
+01/09/2020;Município de São Paulo;Comércio;71276,4368
+01/12/2020;Município de São Paulo;Comércio;-32698,04564
+01/03/2021;Município de São Paulo;Comércio;-1119,028975
+01/06/2021;Município de São Paulo;Comércio;5607,826086
+01/06/2017;Município de São Paulo;Serviços;47660,04686
+01/09/2017;Município de São Paulo;Serviços;43767,81195
+01/12/2017;Município de São Paulo;Serviços;-37423,01937
+01/03/2018;Município de São Paulo;Serviços;1313,102618
+01/06/2018;Município de São Paulo;Serviços;-102815,0023
+01/09/2018;Município de São Paulo;Serviços;152341,7265
+01/12/2018;Município de São Paulo;Serviços;17577,12837
+01/03/2019;Município de São Paulo;Serviços;-32189,27542
+01/06/2019;Município de São Paulo;Serviços;83693,84296
+01/09/2019;Município de São Paulo;Serviços;99504,68918
+01/12/2019;Município de São Paulo;Serviços;42479,72645
+01/03/2020;Município de São Paulo;Serviços;-51059,0284
+01/06/2020;Município de São Paulo;Serviços;-375848,5372
+01/09/2020;Município de São Paulo;Serviços;-147801,096
+01/12/2020;Município de São Paulo;Serviços;131500,1927
+01/03/2021;Município de São Paulo;Serviços;109418,7875
+01/06/2021;Município de São Paulo;Serviços;160553,1037
+01/06/2017;Brasil;Agricultura, pecuária e pesca;-32375,20867
+01/09/2017;Brasil;Agricultura, pecuária e pesca;-28212,72291
+01/12/2017;Brasil;Agricultura, pecuária e pesca;-154612,0618
+01/03/2018;Brasil;Agricultura, pecuária e pesca;24484,70614
+01/06/2018;Brasil;Agricultura, pecuária e pesca;6751,392702
+01/09/2018;Brasil;Agricultura, pecuária e pesca;262774,1516
+01/12/2018;Brasil;Agricultura, pecuária e pesca;-295450,7756
+01/03/2019;Brasil;Agricultura, pecuária e pesca;32528,47228
+01/06/2019;Brasil;Agricultura, pecuária e pesca;233156,7379
+01/09/2019;Brasil;Agricultura, pecuária e pesca;-144114,3227
+01/12/2019;Brasil;Agricultura, pecuária e pesca;-177815,5466
+01/03/2020;Brasil;Agricultura, pecuária e pesca;-67547,85907
+01/06/2020;Brasil;Agricultura, pecuária e pesca;-290022,6932
+01/09/2020;Brasil;Agricultura, pecuária e pesca;304147,652
+01/12/2020;Brasil;Agricultura, pecuária e pesca;279835,1021
+01/03/2021;Brasil;Agricultura, pecuária e pesca;35202,1263
+01/06/2021;Brasil;Agricultura, pecuária e pesca;325670,8982
+01/06/2017;Brasil;Indústria;376000,929
+01/09/2017;Brasil;Indústria;71305,28638
+01/12/2017;Brasil;Indústria;118381,936
+01/03/2018;Brasil;Indústria;-323720,6476
+01/06/2018;Brasil;Indústria;286101,3064
+01/09/2018;Brasil;Indústria;-32450,48671
+01/12/2018;Brasil;Indústria;-60625,40561
+01/03/2019;Brasil;Indústria;-110326,7465
+01/06/2019;Brasil;Indústria;319138,6139
+01/09/2019;Brasil;Indústria;67818,42531
+01/12/2019;Brasil;Indústria;111670,523
+01/03/2020;Brasil;Indústria;-322193,5129
+01/06/2020;Brasil;Indústria;-1116867,611
+01/09/2020;Brasil;Indústria;-144842,293
+01/12/2020;Brasil;Indústria;332621,1276
+01/03/2021;Brasil;Indústria;15504,35461
+01/06/2021;Brasil;Indústria;104694,8608
+01/06/2017;Brasil;Construção;-100603,1473
+01/09/2017;Brasil;Construção;140974,8688
+01/12/2017;Brasil;Construção;72478,8961
+01/03/2018;Brasil;Construção;-385472,0312
+01/06/2018;Brasil;Construção;5750,966794
+01/09/2018;Brasil;Construção;227231,7257
+01/12/2018;Brasil;Construção;36649,08101
+01/03/2019;Brasil;Construção;-288194,3928
+01/06/2019;Brasil;Construção;86592,06763
+01/09/2019;Brasil;Construção;253775,3041
+01/12/2019;Brasil;Construção;-38364,37855
+01/03/2020;Brasil;Construção;-440221,5986
+01/06/2020;Brasil;Construção;-1057393,205
+01/09/2020;Brasil;Construção;398881,3137
+01/12/2020;Brasil;Construção;296168,1576
+01/03/2021;Brasil;Construção;1808,210383
+01/06/2021;Brasil;Construção;345666,6458
+01/06/2017;Brasil;Comércio;202033,5044
+01/09/2017;Brasil;Comércio;94286,07715
+01/12/2017;Brasil;Comércio;367697,9744
+01/03/2018;Brasil;Comércio;-390336,3865
+01/06/2018;Brasil;Comércio;-82561,6596
+01/09/2018;Brasil;Comércio;135479,8497
+01/12/2018;Brasil;Comércio;267861,5923
+01/03/2019;Brasil;Comércio;-194523,0786
+01/06/2019;Brasil;Comércio;-10771,22552
+01/09/2019;Brasil;Comércio;101276,8279
+01/12/2019;Brasil;Comércio;376021,417
+01/03/2020;Brasil;Comércio;-627704,8636
+01/06/2020;Brasil;Comércio;-2137065,541
+01/09/2020;Brasil;Comércio;2146,95768
+01/12/2020;Brasil;Comércio;791869,7702
+01/03/2021;Brasil;Comércio;-292963,0396
+01/06/2021;Brasil;Comércio;205987,2977
+01/06/2017;Brasil;Serviços;809902,7703
+01/09/2017;Brasil;Serviços;716457,9007
+01/12/2017;Brasil;Serviços;202180,5564
+01/03/2018;Brasil;Serviços;-281127,7016
+01/06/2018;Brasil;Serviços;477953,2427
+01/09/2018;Brasil;Serviços;768230,9392
+01/12/2018;Brasil;Serviços;440651,854
+01/03/2019;Brasil;Serviços;-222569,1137
+01/06/2019;Brasil;Serviços;726296,6438
+01/09/2019;Brasil;Serviços;167595,9806
+01/12/2019;Brasil;Serviços;416078,8268
+01/03/2020;Brasil;Serviços;-495728,9428
+01/06/2020;Brasil;Serviços;-2998911,411
+01/09/2020;Brasil;Serviços;-1348526,946
+01/12/2020;Brasil;Serviços;1679151,855
+01/03/2021;Brasil;Serviços;-306795,4457
+01/06/2021;Brasil;Serviços;946165,9127
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;

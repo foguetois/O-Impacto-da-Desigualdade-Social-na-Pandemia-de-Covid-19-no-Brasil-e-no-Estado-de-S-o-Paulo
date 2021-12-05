@@ -1,0 +1,8 @@
+Variável;Tipo;Descrição;Fonte
+cod_ibge;numérico;Código oficial de 7 dígitos definido pelo IBGE para município;Instituto Brasileiro de Geografia e Estatística – IBGE 
+municipio;texto;Nome do Município;Instituto Brasileiro de Geografia e Estatística – IBGE 
+nome_ra;texto;Nome da Região Administrativa ;Fundação Sistema Estadual de Análise de Dados – Seade
+cod_ra;numérico;Código da Região Administrativa;Fundação Sistema Estadual de Análise de Dados – Seade
+cod_drs;numérico;Código do Departamento Regional de Saúde;Secretaria de Estado da Saúde – SES
+nome_drs;texto;Nome do Departamento Regional de Saúde;Secretaria de Estado da Saúde – SES
+nome_rm;texto;Nome da Região Metropolitana;Fundação Sistema Estadual de Análise de Dados – Seade

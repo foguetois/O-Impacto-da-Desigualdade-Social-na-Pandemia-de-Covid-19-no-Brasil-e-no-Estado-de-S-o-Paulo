@@ -1,0 +1,5 @@
+Variável;Tipo;Descrição;Fonte
+Data;data;Último mês do trimestre referente;IBGE/PNAD Contínua. Fundação Seade.
+Região;texto;Região;IBGE/PNAD Contínua. Fundação Seade.
+Renda1;numérico;Rendimento efetivo médio dos ocupados (R$);IBGE/PNAD Contínua. Fundação Seade.
+Renda2;numérico;Rendimento habitual médio dos ocupados (R$);IBGE/PNAD Contínua. Fundação Seade.

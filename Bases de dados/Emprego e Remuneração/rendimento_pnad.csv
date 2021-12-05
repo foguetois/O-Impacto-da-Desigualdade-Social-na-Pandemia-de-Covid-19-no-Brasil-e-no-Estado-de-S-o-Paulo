@@ -1,0 +1,91 @@
+Data;Região;Renda1;Renda2
+01/03/2017;Estado de São Paulo;3500,78;3135,85
+01/06/2017;Estado de São Paulo;3111,85;3087,00
+01/09/2017;Estado de São Paulo;3148,71;3107,75
+01/12/2017;Estado de São Paulo;3248,02;3088,96
+01/03/2018;Estado de São Paulo;3480,01;3139,47
+01/06/2018;Estado de São Paulo;3168,00;3163,36
+01/09/2018;Estado de São Paulo;3182,49;3142,99
+01/12/2018;Estado de São Paulo;3312,03;3154,32
+01/03/2019;Estado de São Paulo;3477,32;3125,85
+01/06/2019;Estado de São Paulo;3121,20;3090,13
+01/09/2019;Estado de São Paulo;3122,76;3087,25
+01/12/2019;Estado de São Paulo;3273,32;3099,15
+01/03/2020;Estado de São Paulo;3514,18;3190,92
+01/06/2020;Estado de São Paulo;3004,73;3289,01
+01/09/2020;Estado de São Paulo;3271,23;3474,00
+01/12/2020;Estado de São Paulo;3194,71;3216,57
+01/03/2021;Estado de São Paulo;3377,54;3137,02
+01/06/2021;Estado de São Paulo;2980,00;2987,47
+01/03/2017;Região Metropolitana de São Paulo;4170,68;3743,31
+01/06/2017;Região Metropolitana de São Paulo;3667,47;3614,04
+01/09/2017;Região Metropolitana de São Paulo;3753,92;3687,43
+01/12/2017;Região Metropolitana de São Paulo;3860,06;3657,63
+01/03/2018;Região Metropolitana de São Paulo;4122,31;3746,73
+01/06/2018;Região Metropolitana de São Paulo;3729,97;3740,90
+01/09/2018;Região Metropolitana de São Paulo;3796,50;3743,52
+01/12/2018;Região Metropolitana de São Paulo;4012,11;3775,30
+01/03/2019;Região Metropolitana de São Paulo;4131,31;3720,79
+01/06/2019;Região Metropolitana de São Paulo;3701,53;3665,28
+01/09/2019;Região Metropolitana de São Paulo;3704,18;3655,01
+01/12/2019;Região Metropolitana de São Paulo;3915,81;3705,99
+01/03/2020;Região Metropolitana de São Paulo;4149,85;3814,57
+01/06/2020;Região Metropolitana de São Paulo;3607,27;3936,97
+01/09/2020;Região Metropolitana de São Paulo;3781,63;4063,41
+01/12/2020;Região Metropolitana de São Paulo;3712,88;3748,50
+01/03/2021;Região Metropolitana de São Paulo;3934,49;3618,23
+01/06/2021;Região Metropolitana de São Paulo;3395,82;3379,52
+01/03/2017;ESP exceto RMSP;2874,67;2568,11
+01/06/2017;ESP exceto RMSP;2591,08;2593,01
+01/09/2017;ESP exceto RMSP;2575,87;2559,07
+01/12/2017;ESP exceto RMSP;2671,72;2553,50
+01/03/2018;ESP exceto RMSP;2867,17;2560,05
+01/06/2018;ESP exceto RMSP;2643,90;2624,74
+01/09/2018;ESP exceto RMSP;2607,16;2580,28
+01/12/2018;ESP exceto RMSP;2670,68;2585,45
+01/03/2019;ESP exceto RMSP;2881,31;2583,66
+01/06/2019;ESP exceto RMSP;2592,66;2566,32
+01/09/2019;ESP exceto RMSP;2586,06;2563,18
+01/12/2019;ESP exceto RMSP;2691,38;2549,50
+01/03/2020;ESP exceto RMSP;2943,08;2630,60
+01/06/2020;ESP exceto RMSP;2472,34;2716,49
+01/09/2020;ESP exceto RMSP;2802,85;2933,09
+01/12/2020;ESP exceto RMSP;2729,13;2738,61
+01/03/2021;ESP exceto RMSP;2855,63;2686,08
+01/06/2021;ESP exceto RMSP;2586,05;2616,04
+01/03/2017;Município de São Paulo;4311,97;3963,50
+01/06/2017;Município de São Paulo;4043,51;3972,90
+01/09/2017;Município de São Paulo;4147,27;4052,11
+01/12/2017;Município de São Paulo;4250,68;4054,29
+01/03/2018;Município de São Paulo;4701,35;4253,32
+01/06/2018;Município de São Paulo;4278,73;4299,03
+01/09/2018;Município de São Paulo;4133,16;4085,89
+01/12/2018;Município de São Paulo;4542,07;4303,38
+01/03/2019;Município de São Paulo;4642,18;4145,80
+01/06/2019;Município de São Paulo;4198,07;4157,11
+01/09/2019;Município de São Paulo;4168,18;4111,39
+01/12/2019;Município de São Paulo;4356,60;4151,29
+01/03/2020;Município de São Paulo;4623,54;4255,86
+01/06/2020;Município de São Paulo;3989,56;4362,78
+01/09/2020;Município de São Paulo;4181,53;4448,83
+01/12/2020;Município de São Paulo;4178,35;4277,44
+01/03/2021;Município de São Paulo;4748,62;4378,21
+01/06/2021;Município de São Paulo;3995,10;3970,06
+01/03/2017;Brasil;2670,84;2426,33
+01/06/2017;Brasil;2400,10;2399,08
+01/09/2017;Brasil;2427,39;2407,11
+01/12/2017;Brasil;2499,13;2416,77
+01/03/2018;Brasil;2684,84;2443,18
+01/06/2018;Brasil;2451,94;2444,70
+01/09/2018;Brasil;2460,03;2442,56
+01/12/2018;Brasil;2536,21;2454,78
+01/03/2019;Brasil;2719,63;2471,33
+01/06/2019;Brasil;2444,37;2436,97
+01/09/2019;Brasil;2458,15;2439,45
+01/12/2019;Brasil;2560,19;2459,94
+01/03/2020;Brasil;2742,01;2493,67
+01/06/2020;Brasil;2420,98;2613,86
+01/09/2020;Brasil;2520,91;2650,63
+01/12/2020;Brasil;2547,86;2544,45
+01/03/2021;Brasil;2672,49;2515,97
+01/06/2021;Brasil;2430,84;2433,76

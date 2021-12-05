@@ -1,0 +1,5 @@
+Variável;Tipo;Descrição;Fonte
+Data;data;Último mês do trimestre referente;IBGE/PNAD Contínua. Fundação Seade.
+Região;texto;Região;IBGE/PNAD Contínua. Fundação Seade.
+Setor;texto;Setor de atividade;IBGE/PNAD Contínua. Fundação Seade.
+Variação;numérico;Variação absoluta da ocupação (trimeste atual - trimestre anterior);IBGE/PNAD Contínua. Fundação Seade.

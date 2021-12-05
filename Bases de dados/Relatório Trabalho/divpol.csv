@@ -1,0 +1,646 @@
+Município;Nome_Município;RA;RM;RA_Nome
+350010;Adamantina;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+350020;Adolfo;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+350030;Aguaí;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+350040;Águas da Prata;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+350050;Águas de Lindóia;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+350055;Águas de Santa Bárbara;RA de Sorocaba;Demais municípios;Região Administrativa de Sorocaba
+350060;Águas de São Pedro;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+350070;Agudos;RA de Bauru;Demais municípios;Região Administrativa de Bauru
+350075;Alambari;RA de Sorocaba;RM de Sorocaba;Região Administrativa de Sorocaba
+350080;Alfredo Marcondes;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+350090;Altair;RA de Barretos;Demais municípios;Região Administrativa de Barretos
+350100;Altinópolis;RA de Ribeirão Preto;RM de Ribeirão Preto;Região Administrativa de Ribeirão Preto
+350110;Alto Alegre;RA de Araçatuba;Demais municípios;Região Administrativa de Araçatuba
+350115;Alumínio;RA de Sorocaba;RM de Sorocaba;Região Administrativa de Sorocaba
+350120;Álvares Florence;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+350130;Álvares Machado;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+350140;Álvaro de Carvalho;RA de Marília;Demais municípios;Região Administrativa de Marília
+350150;Alvinlândia;RA de Marília;Demais municípios;Região Administrativa de Marília
+350160;Americana;RA de Campinas;RM de Campinas;Região Administrativa de Campinas
+350170;Américo Brasiliense;RA Central;Demais municípios;Região Administrativa Central
+350180;Américo de Campos;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+350190;Amparo;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+350200;Analândia;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+350210;Andradina;RA de Araçatuba;Demais municípios;Região Administrativa de Araçatuba
+350220;Angatuba;RA de Itapeva;Demais municípios;Região Administrativa de Itapeva
+350230;Anhembi;RA de Sorocaba;Demais municípios;Região Administrativa de Sorocaba
+350240;Anhumas;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+350250;Aparecida;RA de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;Região Administrativa de São José dos Campos
+350260;Aparecida d'Oeste;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+350270;Apiaí;RA de Itapeva;Demais municípios;Região Administrativa de Itapeva
+350275;Araçariguama;RA de Sorocaba;RM de Sorocaba;Região Administrativa de Sorocaba
+350280;Araçatuba;RA de Araçatuba;Demais municípios;Região Administrativa de Araçatuba
+350290;Araçoiaba da Serra;RA de Sorocaba;RM de Sorocaba;Região Administrativa de Sorocaba
+350300;Aramina;RA de Franca;Demais municípios;Região Administrativa de Franca
+350310;Arandu;RA de Itapeva;Demais municípios;Região Administrativa de Itapeva
+350315;Arapeí;RA de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;Região Administrativa de São José dos Campos
+350320;Araraquara;RA Central;Demais municípios;Região Administrativa Central
+350330;Araras;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+350335;ArcoÍris;RA de Marília;Demais municípios;Região Administrativa de Marília
+350340;Arealva;RA de Bauru;Demais municípios;Região Administrativa de Bauru
+350350;Areias;RA de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;Região Administrativa de São José dos Campos
+350360;Areiópolis;RA de Sorocaba;Demais municípios;Região Administrativa de Sorocaba
+350370;Ariranha;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+350380;Artur Nogueira;RA de Campinas;RM de Campinas;Região Administrativa de Campinas
+350390;Arujá;RM de São Paulo;RM de São Paulo;Região Metropolitana de São Paulo
+350395;Aspásia;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+350400;Assis;RA de Marília;Demais municípios;Região Administrativa de Marília
+350410;Atibaia;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+350420;Auriflama;RA de Araçatuba;Demais municípios;Região Administrativa de Araçatuba
+350430;Avaí;RA de Bauru;Demais municípios;Região Administrativa de Bauru
+350440;Avanhandava;RA de Araçatuba;Demais municípios;Região Administrativa de Araçatuba
+350450;Avaré;RA de Sorocaba;Demais municípios;Região Administrativa de Sorocaba
+350460;Bady Bassitt;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+350470;Balbinos;RA de Bauru;Demais municípios;Região Administrativa de Bauru
+350480;Bálsamo;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+350490;Bananal;RA de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;Região Administrativa de São José dos Campos
+350500;Barão de Antonina;RA de Itapeva;Demais municípios;Região Administrativa de Itapeva
+350510;Barbosa;RA de Araçatuba;Demais municípios;Região Administrativa de Araçatuba
+350520;Bariri;RA de Bauru;Demais municípios;Região Administrativa de Bauru
+350530;Barra Bonita;RA de Bauru;Demais municípios;Região Administrativa de Bauru
+350535;Barra do Chapéu;RA de Itapeva;Demais municípios;Região Administrativa de Itapeva
+350540;Barra do Turvo;RA de Registro;Demais municípios;Região Administrativa de Registro
+350550;Barretos;RA de Barretos;Demais municípios;Região Administrativa de Barretos
+350560;Barrinha;RA de Ribeirão Preto;RM de Ribeirão Preto;Região Administrativa de Ribeirão Preto
+350570;Barueri;RM de São Paulo;RM de São Paulo;Região Metropolitana de São Paulo
+350580;Bastos;RA de Marília;Demais municípios;Região Administrativa de Marília
+350590;Batatais;RA de Franca;RM de Ribeirão Preto;Região Administrativa de Franca
+350600;Bauru;RA de Bauru;Demais municípios;Região Administrativa de Bauru
+350610;Bebedouro;RA de Barretos;Demais municípios;Região Administrativa de Barretos
+350620;Bento de Abreu;RA de Araçatuba;Demais municípios;Região Administrativa de Araçatuba
+350630;Bernardino de Campos;RA de Marília;Demais municípios;Região Administrativa de Marília
+350635;Bertioga;RA de Santos;RM da Baixada Santista;Região Administrativa de Santos
+350640;Bilac;RA de Araçatuba;Demais municípios;Região Administrativa de Araçatuba
+350650;Birigui;RA de Araçatuba;Demais municípios;Região Administrativa de Araçatuba
+350660;BiritibaMirim;RM de São Paulo;RM de São Paulo;Região Metropolitana de São Paulo
+350670;Boa Esperança do Sul;RA Central;Demais municípios;Região Administrativa Central
+350680;Bocaina;RA de Bauru;Demais municípios;Região Administrativa de Bauru
+350690;Bofete;RA de Sorocaba;Demais municípios;Região Administrativa de Sorocaba
+350700;Boituva;RA de Sorocaba;RM de Sorocaba;Região Administrativa de Sorocaba
+350710;Bom Jesus dos Perdões;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+350715;Bom Sucesso de Itararé;RA de Itapeva;Demais municípios;Região Administrativa de Itapeva
+350720;Borá;RA de Marília;Demais municípios;Região Administrativa de Marília
+350730;Boracéia;RA de Bauru;Demais municípios;Região Administrativa de Bauru
+350740;Borborema;RA Central;Demais municípios;Região Administrativa Central
+350745;Borebi;RA de Bauru;Demais municípios;Região Administrativa de Bauru
+350750;Botucatu;RA de Sorocaba;Demais municípios;Região Administrativa de Sorocaba
+350760;Bragança Paulista;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+350770;Braúna;RA de Araçatuba;Demais municípios;Região Administrativa de Araçatuba
+350775;Brejo Alegre;RA de Araçatuba;Demais municípios;Região Administrativa de Araçatuba
+350780;Brodowski;RA de Ribeirão Preto;RM de Ribeirão Preto;Região Administrativa de Ribeirão Preto
+350790;Brotas;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+350800;Buri;RA de Itapeva;Demais municípios;Região Administrativa de Itapeva
+350810;Buritama;RA de Araçatuba;Demais municípios;Região Administrativa de Araçatuba
+350820;Buritizal;RA de Franca;Demais municípios;Região Administrativa de Franca
+350830;Cabrália Paulista;RA de Bauru;Demais municípios;Região Administrativa de Bauru
+350840;Cabreúva;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+350850;Caçapava;RA de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;Região Administrativa de São José dos Campos
+350860;Cachoeira Paulista;RA de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;Região Administrativa de São José dos Campos
+350870;Caconde;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+350880;Cafelândia;RA de Bauru;Demais municípios;Região Administrativa de Bauru
+350890;Caiabu;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+350900;Caieiras;RM de São Paulo;RM de São Paulo;Região Metropolitana de São Paulo
+350910;Caiuá;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+350920;Cajamar;RM de São Paulo;RM de São Paulo;Região Metropolitana de São Paulo
+350925;Cajati;RA de Registro;Demais municípios;Região Administrativa de Registro
+350930;Cajobi;RA de Barretos;Demais municípios;Região Administrativa de Barretos
+350940;Cajuru;RA de Ribeirão Preto;RM de Ribeirão Preto;Região Administrativa de Ribeirão Preto
+350945;Campina do Monte Alegre;RA de Itapeva;Demais municípios;Região Administrativa de Itapeva
+350950;Campinas;RA de Campinas;RM de Campinas;Região Administrativa de Campinas
+350960;Campo Limpo Paulista;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+350970;Campos do Jordão;RA de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;Região Administrativa de São José dos Campos
+350980;Campos Novos Paulista;RA de Marília;Demais municípios;Região Administrativa de Marília
+350990;Cananéia;RA de Registro;Demais municípios;Região Administrativa de Registro
+350995;Canas;RA de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;Região Administrativa de São José dos Campos
+351000;Cândido Mota;RA de Marília;Demais municípios;Região Administrativa de Marília
+351010;Cândido Rodrigues;RA Central;Demais municípios;Região Administrativa Central
+351015;Canitar;RA de Marília;Demais municípios;Região Administrativa de Marília
+351020;Capão Bonito;RA de Itapeva;Demais municípios;Região Administrativa de Itapeva
+351030;Capela do Alto;RA de Sorocaba;RM de Sorocaba;Região Administrativa de Sorocaba
+351040;Capivari;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+351050;Caraguatatuba;RA de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;Região Administrativa de São José dos Campos
+351060;Carapicuíba;RM de São Paulo;RM de São Paulo;Região Metropolitana de São Paulo
+351070;Cardoso;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+351080;Casa Branca;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+351090;Cássia dos Coqueiros;RA de Ribeirão Preto;RM de Ribeirão Preto;Região Administrativa de Ribeirão Preto
+351100;Castilho;RA de Araçatuba;Demais municípios;Região Administrativa de Araçatuba
+351110;Catanduva;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+351120;Catiguá;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+351130;Cedral;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+351140;Cerqueira César;RA de Sorocaba;Demais municípios;Região Administrativa de Sorocaba
+351150;Cerquilho;RA de Sorocaba;RM de Sorocaba;Região Administrativa de Sorocaba
+351160;Cesário Lange;RA de Sorocaba;RM de Sorocaba;Região Administrativa de Sorocaba
+351170;Charqueada;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+351190;Clementina;RA de Araçatuba;Demais municípios;Região Administrativa de Araçatuba
+351200;Colina;RA de Barretos;Demais municípios;Região Administrativa de Barretos
+351210;Colômbia;RA de Barretos;Demais municípios;Região Administrativa de Barretos
+351220;Conchal;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+351230;Conchas;RA de Sorocaba;Demais municípios;Região Administrativa de Sorocaba
+351240;Cordeirópolis;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+351250;Coroados;RA de Araçatuba;Demais municípios;Região Administrativa de Araçatuba
+351260;Coronel Macedo;RA de Itapeva;Demais municípios;Região Administrativa de Itapeva
+351270;Corumbataí;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+351280;Cosmópolis;RA de Campinas;RM de Campinas;Região Administrativa de Campinas
+351290;Cosmorama;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+351300;Cotia;RM de São Paulo;RM de São Paulo;Região Metropolitana de São Paulo
+351310;Cravinhos;RA de Ribeirão Preto;RM de Ribeirão Preto;Região Administrativa de Ribeirão Preto
+351320;Cristais Paulista;RA de Franca;Demais municípios;Região Administrativa de Franca
+351330;Cruzália;RA de Marília;Demais municípios;Região Administrativa de Marília
+351340;Cruzeiro;RA de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;Região Administrativa de São José dos Campos
+351350;Cubatão;RA de Santos;RM da Baixada Santista;Região Administrativa de Santos
+351360;Cunha;RA de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;Região Administrativa de São José dos Campos
+351370;Descalvado;RA Central;Demais municípios;Região Administrativa Central
+351380;Diadema;RM de São Paulo;RM de São Paulo;Região Metropolitana de São Paulo
+351385;Dirce Reis;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+351390;Divinolândia;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+351400;Dobrada;RA Central;Demais municípios;Região Administrativa Central
+351410;Dois Córregos;RA de Bauru;Demais municípios;Região Administrativa de Bauru
+351420;Dolcinópolis;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+351430;Dourado;RA Central;Demais municípios;Região Administrativa Central
+351440;Dracena;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+351450;Duartina;RA de Bauru;Demais municípios;Região Administrativa de Bauru
+351460;Dumont;RA de Ribeirão Preto;RM de Ribeirão Preto;Região Administrativa de Ribeirão Preto
+351470;Echaporã;RA de Marília;Demais municípios;Região Administrativa de Marília
+351480;Eldorado;RA de Registro;Demais municípios;Região Administrativa de Registro
+351490;Elias Fausto;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+351492;Elisiário;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+351495;Embaúba;RA de Barretos;Demais municípios;Região Administrativa de Barretos
+351500;Embu das Artes;RM de São Paulo;RM de São Paulo;Região Metropolitana de São Paulo
+351510;EmbuGuaçu;RM de São Paulo;RM de São Paulo;Região Metropolitana de São Paulo
+351512;Emilianópolis;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+351515;Engenheiro Coelho;RA de Campinas;RM de Campinas;Região Administrativa de Campinas
+351518;Espírito Santo do Pinhal;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+351519;Espírito Santo do Turvo;RA de Marília;Demais municípios;Região Administrativa de Marília
+351520;Estrela d'Oeste;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+351530;Estrela do Norte;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+351535;Euclides da Cunha Paulista;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+351540;Fartura;RA de Itapeva;Demais municípios;Região Administrativa de Itapeva
+351550;Fernandópolis;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+351560;Fernando Prestes;RA Central;Demais municípios;Região Administrativa Central
+351565;Fernão;RA de Marília;Demais municípios;Região Administrativa de Marília
+351570;Ferraz de Vasconcelos;RM de São Paulo;RM de São Paulo;Região Metropolitana de São Paulo
+351580;Flora Rica;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+351590;Floreal;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+351600;Flórida Paulista;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+351610;Florínia;RA de Marília;Demais municípios;Região Administrativa de Marília
+351620;Franca;RA de Franca;Demais municípios;Região Administrativa de Franca
+351630;Francisco Morato;RM de São Paulo;RM de São Paulo;Região Metropolitana de São Paulo
+351640;Franco da Rocha;RM de São Paulo;RM de São Paulo;Região Metropolitana de São Paulo
+351650;Gabriel Monteiro;RA de Araçatuba;Demais municípios;Região Administrativa de Araçatuba
+351660;Gália;RA de Marília;Demais municípios;Região Administrativa de Marília
+351670;Garça;RA de Marília;Demais municípios;Região Administrativa de Marília
+351680;Gastão Vidigal;RA de Araçatuba;Demais municípios;Região Administrativa de Araçatuba
+351685;Gavião Peixoto;RA Central;Demais municípios;Região Administrativa Central
+351690;General Salgado;RA de Araçatuba;Demais municípios;Região Administrativa de Araçatuba
+351700;Getulina;RA de Bauru;Demais municípios;Região Administrativa de Bauru
+351710;Glicério;RA de Araçatuba;Demais municípios;Região Administrativa de Araçatuba
+351720;Guaiçara;RA de Bauru;Demais municípios;Região Administrativa de Bauru
+351730;Guaimbê;RA de Bauru;Demais municípios;Região Administrativa de Bauru
+351740;Guaíra;RA de Barretos;Demais municípios;Região Administrativa de Barretos
+351750;Guapiaçu;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+351760;Guapiara;RA de Itapeva;Demais municípios;Região Administrativa de Itapeva
+351770;Guará;RA de Franca;Demais municípios;Região Administrativa de Franca
+351780;Guaraçaí;RA de Araçatuba;Demais municípios;Região Administrativa de Araçatuba
+351790;Guaraci;RA de Barretos;Demais municípios;Região Administrativa de Barretos
+351800;Guarani d'Oeste;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+351810;Guarantã;RA de Bauru;Demais municípios;Região Administrativa de Bauru
+351820;Guararapes;RA de Araçatuba;Demais municípios;Região Administrativa de Araçatuba
+351830;Guararema;RM de São Paulo;RM de São Paulo;Região Metropolitana de São Paulo
+351840;Guaratinguetá;RA de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;Região Administrativa de São José dos Campos
+351850;Guareí;RA de Sorocaba;Demais municípios;Região Administrativa de Sorocaba
+351860;Guariba;RA de Ribeirão Preto;RM de Ribeirão Preto;Região Administrativa de Ribeirão Preto
+351870;Guarujá;RA de Santos;RM da Baixada Santista;Região Administrativa de Santos
+351880;Guarulhos;RM de São Paulo;RM de São Paulo;Região Metropolitana de São Paulo
+351885;Guatapará;RA de Ribeirão Preto;RM de Ribeirão Preto;Região Administrativa de Ribeirão Preto
+351890;Guzolândia;RA de Araçatuba;Demais municípios;Região Administrativa de Araçatuba
+351900;Herculândia;RA de Marília;Demais municípios;Região Administrativa de Marília
+351905;Holambra;RA de Campinas;RM de Campinas;Região Administrativa de Campinas
+351907;Hortolândia;RA de Campinas;RM de Campinas;Região Administrativa de Campinas
+351910;Iacanga;RA de Bauru;Demais municípios;Região Administrativa de Bauru
+351920;Iacri;RA de Marília;Demais municípios;Região Administrativa de Marília
+351925;Iaras;RA de Sorocaba;Demais municípios;Região Administrativa de Sorocaba
+351930;Ibaté;RA Central;Demais municípios;Região Administrativa Central
+351940;Ibirá;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+351950;Ibirarema;RA de Marília;Demais municípios;Região Administrativa de Marília
+351960;Ibitinga;RA Central;Demais municípios;Região Administrativa Central
+351970;Ibiúna;RA de Sorocaba;RM de Sorocaba;Região Administrativa de Sorocaba
+351980;Icém;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+351990;Iepê;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+352000;Igaraçu do Tietê;RA de Bauru;Demais municípios;Região Administrativa de Bauru
+352010;Igarapava;RA de Franca;Demais municípios;Região Administrativa de Franca
+352020;Igaratá;RA de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;Região Administrativa de São José dos Campos
+352030;Iguape;RA de Registro;Demais municípios;Região Administrativa de Registro
+352040;Ilhabela;RA de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;Região Administrativa de São José dos Campos
+352042;Ilha Comprida;RA de Registro;Demais municípios;Região Administrativa de Registro
+352044;Ilha Solteira;RA de Araçatuba;Demais municípios;Região Administrativa de Araçatuba
+352050;Indaiatuba;RA de Campinas;RM de Campinas;Região Administrativa de Campinas
+352060;Indiana;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+352070;Indiaporã;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+352080;Inúbia Paulista;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+352090;Ipaussu;RA de Marília;Demais municípios;Região Administrativa de Marília
+352100;Iperó;RA de Sorocaba;RM de Sorocaba;Região Administrativa de Sorocaba
+352110;Ipeúna;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+352115;Ipiguá;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+352120;Iporanga;RA de Itapeva;Demais municípios;Região Administrativa de Itapeva
+352130;Ipuã;RA de Franca;Demais municípios;Região Administrativa de Franca
+352140;Iracemápolis;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+352150;Irapuã;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+352160;Irapuru;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+352170;Itaberá;RA de Itapeva;Demais municípios;Região Administrativa de Itapeva
+352180;Itaí;RA de Itapeva;Demais municípios;Região Administrativa de Itapeva
+352190;Itajobi;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+352200;Itaju;RA de Bauru;Demais municípios;Região Administrativa de Bauru
+352210;Itanhaém;RA de Santos;RM da Baixada Santista;Região Administrativa de Santos
+352215;Itaóca;RA de Itapeva;Demais municípios;Região Administrativa de Itapeva
+352220;Itapecerica da Serra;RM de São Paulo;RM de São Paulo;Região Metropolitana de São Paulo
+352230;Itapetininga;RA de Sorocaba;RM de Sorocaba;Região Administrativa de Sorocaba
+352240;Itapeva;RA de Itapeva;Demais municípios;Região Administrativa de Itapeva
+352250;Itapevi;RM de São Paulo;RM de São Paulo;Região Metropolitana de São Paulo
+352260;Itapira;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+352265;Itapirapuã Paulista;RA de Itapeva;Demais municípios;Região Administrativa de Itapeva
+352270;Itápolis;RA Central;Demais municípios;Região Administrativa Central
+352280;Itaporanga;RA de Itapeva;Demais municípios;Região Administrativa de Itapeva
+352290;Itapuí;RA de Bauru;Demais municípios;Região Administrativa de Bauru
+352300;Itapura;RA de Araçatuba;Demais municípios;Região Administrativa de Araçatuba
+352310;Itaquaquecetuba;RM de São Paulo;RM de São Paulo;Região Metropolitana de São Paulo
+352320;Itararé;RA de Itapeva;Demais municípios;Região Administrativa de Itapeva
+352330;Itariri;RA de Registro;Demais municípios;Região Administrativa de Registro
+352340;Itatiba;RA de Campinas;RM de Campinas;Região Administrativa de Campinas
+352350;Itatinga;RA de Sorocaba;Demais municípios;Região Administrativa de Sorocaba
+352360;Itirapina;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+352370;Itirapuã;RA de Franca;Demais municípios;Região Administrativa de Franca
+352380;Itobi;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+352390;Itu;RA de Sorocaba;RM de Sorocaba;Região Administrativa de Sorocaba
+352400;Itupeva;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+352410;Ituverava;RA de Franca;Demais municípios;Região Administrativa de Franca
+352420;Jaborandi;RA de Barretos;Demais municípios;Região Administrativa de Barretos
+352430;Jaboticabal;RA de Ribeirão Preto;RM de Ribeirão Preto;Região Administrativa de Ribeirão Preto
+352440;Jacareí;RA de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;Região Administrativa de São José dos Campos
+352450;Jaci;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+352460;Jacupiranga;RA de Registro;Demais municípios;Região Administrativa de Registro
+352470;Jaguariúna;RA de Campinas;RM de Campinas;Região Administrativa de Campinas
+352480;Jales;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+352490;Jambeiro;RA de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;Região Administrativa de São José dos Campos
+352500;Jandira;RM de São Paulo;RM de São Paulo;Região Metropolitana de São Paulo
+352510;Jardinópolis;RA de Ribeirão Preto;RM de Ribeirão Preto;Região Administrativa de Ribeirão Preto
+352520;Jarinu;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+352530;Jaú;RA de Bauru;Demais municípios;Região Administrativa de Bauru
+352540;Jeriquara;RA de Franca;Demais municípios;Região Administrativa de Franca
+352550;Joanópolis;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+352560;João Ramalho;RA de Marília;Demais municípios;Região Administrativa de Marília
+352570;José Bonifácio;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+352580;Júlio Mesquita;RA de Marília;Demais municípios;Região Administrativa de Marília
+352585;Jumirim;RA de Sorocaba;RM de Sorocaba;Região Administrativa de Sorocaba
+352590;Jundiaí;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+352600;Junqueirópolis;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+352610;Juquiá;RA de Registro;Demais municípios;Região Administrativa de Registro
+352620;Juquitiba;RM de São Paulo;RM de São Paulo;Região Metropolitana de São Paulo
+352630;Lagoinha;RA de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;Região Administrativa de São José dos Campos
+352640;Laranjal Paulista;RA de Sorocaba;Demais municípios;Região Administrativa de Sorocaba
+352650;Lavínia;RA de Araçatuba;Demais municípios;Região Administrativa de Araçatuba
+352660;Lavrinhas;RA de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;Região Administrativa de São José dos Campos
+352670;Leme;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+352680;Lençóis Paulista;RA de Bauru;Demais municípios;Região Administrativa de Bauru
+352690;Limeira;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+352700;Lindóia;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+352710;Lins;RA de Bauru;Demais municípios;Região Administrativa de Bauru
+352720;Lorena;RA de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;Região Administrativa de São José dos Campos
+352725;Lourdes;RA de Araçatuba;Demais municípios;Região Administrativa de Araçatuba
+352730;Louveira;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+352740;Lucélia;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+352750;Lucianópolis;RA de Bauru;Demais municípios;Região Administrativa de Bauru
+352760;Luís Antônio;RA de Ribeirão Preto;RM de Ribeirão Preto;Região Administrativa de Ribeirão Preto
+352770;Luiziânia;RA de Araçatuba;Demais municípios;Região Administrativa de Araçatuba
+352780;Lupércio;RA de Marília;Demais municípios;Região Administrativa de Marília
+352790;Lutécia;RA de Marília;Demais municípios;Região Administrativa de Marília
+352800;Macatuba;RA de Bauru;Demais municípios;Região Administrativa de Bauru
+352810;Macaubal;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+352820;Macedônia;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+352830;Magda;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+352840;Mairinque;RA de Sorocaba;RM de Sorocaba;Região Administrativa de Sorocaba
+352850;Mairiporã;RM de São Paulo;RM de São Paulo;Região Metropolitana de São Paulo
+352860;Manduri;RA de Sorocaba;Demais municípios;Região Administrativa de Sorocaba
+352870;Marabá Paulista;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+352880;Maracaí;RA de Marília;Demais municípios;Região Administrativa de Marília
+352885;Marapoama;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+352890;Mariápolis;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+352900;Marília;RA de Marília;Demais municípios;Região Administrativa de Marília
+352910;Marinópolis;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+352920;Martinópolis;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+352930;Matão;RA Central;Demais municípios;Região Administrativa Central
+352940;Mauá;RM de São Paulo;RM de São Paulo;Região Metropolitana de São Paulo
+352950;Mendonça;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+352960;Meridiano;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+352965;Mesópolis;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+352970;Miguelópolis;RA de Franca;Demais municípios;Região Administrativa de Franca
+352980;Mineiros do Tietê;RA de Bauru;Demais municípios;Região Administrativa de Bauru
+352990;Miracatu;RA de Registro;Demais municípios;Região Administrativa de Registro
+353000;Mira Estrela;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+353010;Mirandópolis;RA de Araçatuba;Demais municípios;Região Administrativa de Araçatuba
+353020;Mirante do Paranapanema;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+353030;Mirassol;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+353040;Mirassolândia;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+353050;Mococa;RA de Campinas;RM de Ribeirão Preto;Região Administrativa de Campinas
+353060;Mogi das Cruzes;RM de São Paulo;RM de São Paulo;Região Metropolitana de São Paulo
+353070;Mogi Guaçu;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+353080;Moji Mirim;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+353090;Mombuca;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+353100;Monções;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+353110;Mongaguá;RA de Santos;RM da Baixada Santista;Região Administrativa de Santos
+353120;Monte Alegre do Sul;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+353130;Monte Alto;RA de Ribeirão Preto;RM de Ribeirão Preto;Região Administrativa de Ribeirão Preto
+353140;Monte Aprazível;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+353150;Monte Azul Paulista;RA de Barretos;Demais municípios;Região Administrativa de Barretos
+353160;Monte Castelo;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+353170;Monteiro Lobato;RA de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;Região Administrativa de São José dos Campos
+353180;Monte Mor;RA de Campinas;RM de Campinas;Região Administrativa de Campinas
+353190;Morro Agudo;RA de Franca;RM de Ribeirão Preto;Região Administrativa de Franca
+353200;Morungaba;RA de Campinas;RM de Campinas;Região Administrativa de Campinas
+353205;Motuca;RA Central;Demais municípios;Região Administrativa Central
+353210;Murutinga do Sul;RA de Araçatuba;Demais municípios;Região Administrativa de Araçatuba
+353215;Nantes;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+353220;Narandiba;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+353230;Natividade da Serra;RA de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;Região Administrativa de São José dos Campos
+353240;Nazaré Paulista;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+353250;Neves Paulista;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+353260;Nhandeara;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+353270;Nipoã;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+353280;Nova Aliança;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+353282;Nova Campina;RA de Itapeva;Demais municípios;Região Administrativa de Itapeva
+353284;Nova Canaã Paulista;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+353286;Nova Castilho;RA de Araçatuba;Demais municípios;Região Administrativa de Araçatuba
+353290;Nova Europa;RA Central;Demais municípios;Região Administrativa Central
+353300;Nova Granada;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+353310;Nova Guataporanga;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+353320;Nova Independência;RA de Araçatuba;Demais municípios;Região Administrativa de Araçatuba
+353325;Novais;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+353330;Nova Luzitânia;RA de Araçatuba;Demais municípios;Região Administrativa de Araçatuba
+353340;Nova Odessa;RA de Campinas;RM de Campinas;Região Administrativa de Campinas
+353350;Novo Horizonte;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+353360;Nuporanga;RA de Franca;RM de Ribeirão Preto;Região Administrativa de Franca
+353370;Ocauçu;RA de Marília;Demais municípios;Região Administrativa de Marília
+353380;Óleo;RA de Marília;Demais municípios;Região Administrativa de Marília
+353390;Olímpia;RA de Barretos;Demais municípios;Região Administrativa de Barretos
+353400;Onda Verde;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+353410;Oriente;RA de Marília;Demais municípios;Região Administrativa de Marília
+353420;Orindiúva;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+353430;Orlândia;RA de Franca;RM de Ribeirão Preto;Região Administrativa de Franca
+353440;Osasco;RM de São Paulo;RM de São Paulo;Região Metropolitana de São Paulo
+353450;Oscar Bressane;RA de Marília;Demais municípios;Região Administrativa de Marília
+353460;Osvaldo Cruz;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+353470;Ourinhos;RA de Marília;Demais municípios;Região Administrativa de Marília
+353475;Ouroeste;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+353480;Ouro Verde;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+353490;Pacaembu;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+353500;Palestina;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+353510;Palmares Paulista;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+353520;Palmeira d'Oeste;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+353530;Palmital;RA de Marília;Demais municípios;Região Administrativa de Marília
+353540;Panorama;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+353550;Paraguaçu Paulista;RA de Marília;Demais municípios;Região Administrativa de Marília
+353560;Paraibuna;RA de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;Região Administrativa de São José dos Campos
+353570;Paraíso;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+353580;Paranapanema;RA de Itapeva;Demais municípios;Região Administrativa de Itapeva
+353590;Paranapuã;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+353600;Parapuã;RA de Marília;Demais municípios;Região Administrativa de Marília
+353610;Pardinho;RA de Sorocaba;Demais municípios;Região Administrativa de Sorocaba
+353620;PariqueraAçu;RA de Registro;Demais municípios;Região Administrativa de Registro
+353625;Parisi;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+353630;Patrocínio Paulista;RA de Franca;Demais municípios;Região Administrativa de Franca
+353640;Paulicéia;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+353650;Paulínia;RA de Campinas;RM de Campinas;Região Administrativa de Campinas
+353657;Paulistânia;RA de Bauru;Demais municípios;Região Administrativa de Bauru
+353660;Paulo de Faria;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+353670;Pederneiras;RA de Bauru;Demais municípios;Região Administrativa de Bauru
+353680;Pedra Bela;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+353690;Pedranópolis;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+353700;Pedregulho;RA de Franca;Demais municípios;Região Administrativa de Franca
+353710;Pedreira;RA de Campinas;RM de Campinas;Região Administrativa de Campinas
+353715;Pedrinhas Paulista;RA de Marília;Demais municípios;Região Administrativa de Marília
+353720;Pedro de Toledo;RA de Registro;Demais municípios;Região Administrativa de Registro
+353730;Penápolis;RA de Araçatuba;Demais municípios;Região Administrativa de Araçatuba
+353740;Pereira Barreto;RA de Araçatuba;Demais municípios;Região Administrativa de Araçatuba
+353750;Pereiras;RA de Sorocaba;Demais municípios;Região Administrativa de Sorocaba
+353760;Peruíbe;RA de Santos;RM da Baixada Santista;Região Administrativa de Santos
+353770;Piacatu;RA de Araçatuba;Demais municípios;Região Administrativa de Araçatuba
+353780;Piedade;RA de Sorocaba;RM de Sorocaba;Região Administrativa de Sorocaba
+353790;Pilar do Sul;RA de Sorocaba;RM de Sorocaba;Região Administrativa de Sorocaba
+353800;Pindamonhangaba;RA de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;Região Administrativa de São José dos Campos
+353810;Pindorama;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+353820;Pinhalzinho;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+353830;Piquerobi;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+353850;Piquete;RA de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;Região Administrativa de São José dos Campos
+353860;Piracaia;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+353870;Piracicaba;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+353880;Piraju;RA de Itapeva;Demais municípios;Região Administrativa de Itapeva
+353890;Pirajuí;RA de Bauru;Demais municípios;Região Administrativa de Bauru
+353900;Pirangi;RA de Barretos;Demais municípios;Região Administrativa de Barretos
+353910;Pirapora do Bom Jesus;RM de São Paulo;RM de São Paulo;Região Metropolitana de São Paulo
+353920;Pirapozinho;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+353930;Pirassununga;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+353940;Piratininga;RA de Bauru;Demais municípios;Região Administrativa de Bauru
+353950;Pitangueiras;RA de Ribeirão Preto;RM de Ribeirão Preto;Região Administrativa de Ribeirão Preto
+353960;Planalto;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+353970;Platina;RA de Marília;Demais municípios;Região Administrativa de Marília
+353980;Poá;RM de São Paulo;RM de São Paulo;Região Metropolitana de São Paulo
+353990;Poloni;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+354000;Pompéia;RA de Marília;Demais municípios;Região Administrativa de Marília
+354010;Pongaí;RA de Bauru;Demais municípios;Região Administrativa de Bauru
+354020;Pontal;RA de Ribeirão Preto;RM de Ribeirão Preto;Região Administrativa de Ribeirão Preto
+354025;Pontalinda;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+354030;Pontes Gestal;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+354040;Populina;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+354050;Porangaba;RA de Sorocaba;Demais municípios;Região Administrativa de Sorocaba
+354060;Porto Feliz;RA de Sorocaba;RM de Sorocaba;Região Administrativa de Sorocaba
+354070;Porto Ferreira;RA Central;Demais municípios;Região Administrativa Central
+354075;Potim;RA de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;Região Administrativa de São José dos Campos
+354080;Potirendaba;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+354085;Pracinha;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+354090;Pradópolis;RA de Ribeirão Preto;RM de Ribeirão Preto;Região Administrativa de Ribeirão Preto
+354100;Praia Grande;RA de Santos;RM da Baixada Santista;Região Administrativa de Santos
+354105;Pratânia;RA de Sorocaba;Demais municípios;Região Administrativa de Sorocaba
+354110;Presidente Alves;RA de Bauru;Demais municípios;Região Administrativa de Bauru
+354120;Presidente Bernardes;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+354130;Presidente Epitácio;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+354140;Presidente Prudente;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+354150;Presidente Venceslau;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+354160;Promissão;RA de Bauru;Demais municípios;Região Administrativa de Bauru
+354165;Quadra;RA de Sorocaba;Demais municípios;Região Administrativa de Sorocaba
+354170;Quatá;RA de Marília;Demais municípios;Região Administrativa de Marília
+354180;Queiroz;RA de Marília;Demais municípios;Região Administrativa de Marília
+354190;Queluz;RA de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;Região Administrativa de São José dos Campos
+354200;Quintana;RA de Marília;Demais municípios;Região Administrativa de Marília
+354210;Rafard;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+354220;Rancharia;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+354230;Redenção da Serra;RA de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;Região Administrativa de São José dos Campos
+354240;Regente Feijó;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+354250;Reginópolis;RA de Bauru;Demais municípios;Região Administrativa de Bauru
+354260;Registro;RA de Registro;Demais municípios;Região Administrativa de Registro
+354270;Restinga;RA de Franca;Demais municípios;Região Administrativa de Franca
+354280;Ribeira;RA de Itapeva;Demais municípios;Região Administrativa de Itapeva
+354290;Ribeirão Bonito;RA Central;Demais municípios;Região Administrativa Central
+354300;Ribeirão Branco;RA de Itapeva;Demais municípios;Região Administrativa de Itapeva
+354310;Ribeirão Corrente;RA de Franca;Demais municípios;Região Administrativa de Franca
+354320;Ribeirão do Sul;RA de Marília;Demais municípios;Região Administrativa de Marília
+354323;Ribeirão dos Índios;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+354325;Ribeirão Grande;RA de Itapeva;Demais municípios;Região Administrativa de Itapeva
+354330;Ribeirão Pires;RM de São Paulo;RM de São Paulo;Região Metropolitana de São Paulo
+354340;Ribeirão Preto;RA de Ribeirão Preto;RM de Ribeirão Preto;Região Administrativa de Ribeirão Preto
+354350;Riversul;RA de Itapeva;Demais municípios;Região Administrativa de Itapeva
+354360;Rifaina;RA de Franca;Demais municípios;Região Administrativa de Franca
+354370;Rincão;RA Central;Demais municípios;Região Administrativa Central
+354380;Rinópolis;RA de Marília;Demais municípios;Região Administrativa de Marília
+354390;Rio Claro;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+354400;Rio das Pedras;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+354410;Rio Grande da Serra;RM de São Paulo;RM de São Paulo;Região Metropolitana de São Paulo
+354420;Riolândia;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+354425;Rosana;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+354430;Roseira;RA de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;Região Administrativa de São José dos Campos
+354440;Rubiácea;RA de Araçatuba;Demais municípios;Região Administrativa de Araçatuba
+354450;Rubinéia;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+354460;Sabino;RA de Bauru;Demais municípios;Região Administrativa de Bauru
+354470;Sagres;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+354480;Sales;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+354490;Sales Oliveira;RA de Franca;RM de Ribeirão Preto;Região Administrativa de Franca
+354500;Salesópolis;RM de São Paulo;RM de São Paulo;Região Metropolitana de São Paulo
+354510;Salmourão;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+354515;Saltinho;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+354520;Salto;RA de Sorocaba;RM de Sorocaba;Região Administrativa de Sorocaba
+354530;Salto de Pirapora;RA de Sorocaba;RM de Sorocaba;Região Administrativa de Sorocaba
+354540;Salto Grande;RA de Marília;Demais municípios;Região Administrativa de Marília
+354550;Sandovalina;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+354560;Santa Adélia;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+354570;Santa Albertina;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+354580;Santa Bárbara d'Oeste;RA de Campinas;RM de Campinas;Região Administrativa de Campinas
+354600;Santa Branca;RA de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;Região Administrativa de São José dos Campos
+354610;Santa Clara d'Oeste;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+354620;Santa Cruz da Conceição;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+354625;Santa Cruz da Esperança;RA de Ribeirão Preto;RM de Ribeirão Preto;Região Administrativa de Ribeirão Preto
+354630;Santa Cruz das Palmeiras;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+354640;Santa Cruz do Rio Pardo;RA de Marília;Demais municípios;Região Administrativa de Marília
+354650;Santa Ernestina;RA Central;Demais municípios;Região Administrativa Central
+354660;Santa Fé do Sul;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+354670;Santa Gertrudes;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+354680;Santa Isabel;RM de São Paulo;RM de São Paulo;Região Metropolitana de São Paulo
+354690;Santa Lúcia;RA Central;Demais municípios;Região Administrativa Central
+354700;Santa Maria da Serra;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+354710;Santa Mercedes;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+354720;Santana da Ponte Pensa;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+354730;Santana de Parnaíba;RM de São Paulo;RM de São Paulo;Região Metropolitana de São Paulo
+354740;Santa Rita d'Oeste;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+354750;Santa Rita do Passa Quatro;RA Central;RM de Ribeirão Preto;Região Administrativa Central
+354760;Santa Rosa de Viterbo;RA de Ribeirão Preto;RM de Ribeirão Preto;Região Administrativa de Ribeirão Preto
+354765;Santa Salete;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+354770;Santo Anastácio;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+354780;Santo André;RM de São Paulo;RM de São Paulo;Região Metropolitana de São Paulo
+354790;Santo Antônio da Alegria;RA de Ribeirão Preto;RM de Ribeirão Preto;Região Administrativa de Ribeirão Preto
+354800;Santo Antônio de Posse;RA de Campinas;RM de Campinas;Região Administrativa de Campinas
+354805;Santo Antônio do Aracanguá;RA de Araçatuba;Demais municípios;Região Administrativa de Araçatuba
+354810;Santo Antônio do Jardim;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+354820;Santo Antônio do Pinhal;RA de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;Região Administrativa de São José dos Campos
+354830;Santo Expedito;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+354840;Santópolis do Aguapeí;RA de Araçatuba;Demais municípios;Região Administrativa de Araçatuba
+354850;Santos;RA de Santos;RM da Baixada Santista;Região Administrativa de Santos
+354860;São Bento do Sapucaí;RA de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;Região Administrativa de São José dos Campos
+354870;São Bernardo do Campo;RM de São Paulo;RM de São Paulo;Região Metropolitana de São Paulo
+354880;São Caetano do Sul;RM de São Paulo;RM de São Paulo;Região Metropolitana de São Paulo
+354890;São Carlos;RA Central;Demais municípios;Região Administrativa Central
+354900;São Francisco;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+354910;São João da Boa Vista;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+354920;São João das Duas Pontes;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+354925;São João de Iracema;RA de Araçatuba;Demais municípios;Região Administrativa de Araçatuba
+354930;São João do Pau d'Alho;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+354940;São Joaquim da Barra;RA de Franca;Demais municípios;Região Administrativa de Franca
+354950;São José da Bela Vista;RA de Franca;Demais municípios;Região Administrativa de Franca
+354960;São José do Barreiro;RA de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;Região Administrativa de São José dos Campos
+354970;São José do Rio Pardo;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+354980;São José do Rio Preto;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+354990;São José dos Campos;RA de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;Região Administrativa de São José dos Campos
+354995;São Lourenço da Serra;RM de São Paulo;RM de São Paulo;Região Metropolitana de São Paulo
+355000;São Luís do Paraitinga;RA de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;Região Administrativa de São José dos Campos
+355010;São Manuel;RA de Sorocaba;Demais municípios;Região Administrativa de Sorocaba
+355020;São Miguel Arcanjo;RA de Sorocaba;RM de Sorocaba;Região Administrativa de Sorocaba
+355030;São Paulo;RM de São Paulo;RM de São Paulo;Região Metropolitana de São Paulo
+355040;São Pedro;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+355050;São Pedro do Turvo;RA de Marília;Demais municípios;Região Administrativa de Marília
+355060;São Roque;RA de Sorocaba;RM de Sorocaba;Região Administrativa de Sorocaba
+355070;São Sebastião;RA de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;Região Administrativa de São José dos Campos
+355080;São Sebastião da Grama;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+355090;São Simão;RA de Ribeirão Preto;RM de Ribeirão Preto;Região Administrativa de Ribeirão Preto
+355100;São Vicente;RA de Santos;RM da Baixada Santista;Região Administrativa de Santos
+355110;Sarapuí;RA de Sorocaba;RM de Sorocaba;Região Administrativa de Sorocaba
+355120;Sarutaiá;RA de Itapeva;Demais municípios;Região Administrativa de Itapeva
+355130;Sebastianópolis do Sul;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+355140;Serra Azul;RA de Ribeirão Preto;RM de Ribeirão Preto;Região Administrativa de Ribeirão Preto
+355150;Serrana;RA de Ribeirão Preto;RM de Ribeirão Preto;Região Administrativa de Ribeirão Preto
+355160;Serra Negra;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+355170;Sertãozinho;RA de Ribeirão Preto;RM de Ribeirão Preto;Região Administrativa de Ribeirão Preto
+355180;Sete Barras;RA de Registro;Demais municípios;Região Administrativa de Registro
+355190;Severínia;RA de Barretos;Demais municípios;Região Administrativa de Barretos
+355200;Silveiras;RA de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;Região Administrativa de São José dos Campos
+355210;Socorro;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+355220;Sorocaba;RA de Sorocaba;RM de Sorocaba;Região Administrativa de Sorocaba
+355230;Sud Mennucci;RA de Araçatuba;Demais municípios;Região Administrativa de Araçatuba
+355240;Sumaré;RA de Campinas;RM de Campinas;Região Administrativa de Campinas
+355250;Suzano;RM de São Paulo;RM de São Paulo;Região Metropolitana de São Paulo
+355255;Suzanápolis;RA de Araçatuba;Demais municípios;Região Administrativa de Araçatuba
+355260;Tabapuã;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+355270;Tabatinga;RA Central;Demais municípios;Região Administrativa Central
+355280;Taboão da Serra;RM de São Paulo;RM de São Paulo;Região Metropolitana de São Paulo
+355290;Taciba;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+355300;Taguaí;RA de Itapeva;Demais municípios;Região Administrativa de Itapeva
+355310;Taiaçu;RA de Barretos;Demais municípios;Região Administrativa de Barretos
+355320;Taiúva;RA de Barretos;RM de Ribeirão Preto;Região Administrativa de Barretos
+355330;Tambaú;RA de Campinas;RM de Ribeirão Preto;Região Administrativa de Campinas
+355340;Tanabi;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+355350;Tapiraí;RA de Sorocaba;RM de Sorocaba;Região Administrativa de Sorocaba
+355360;Tapiratiba;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+355365;Taquaral;RA de Ribeirão Preto;RM de Ribeirão Preto;Região Administrativa de Ribeirão Preto
+355370;Taquaritinga;RA Central;Demais municípios;Região Administrativa Central
+355380;Taquarituba;RA de Itapeva;Demais municípios;Região Administrativa de Itapeva
+355385;Taquarivaí;RA de Itapeva;Demais municípios;Região Administrativa de Itapeva
+355390;Tarabai;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+355395;Tarumã;RA de Marília;Demais municípios;Região Administrativa de Marília
+355400;Tatuí;RA de Sorocaba;RM de Sorocaba;Região Administrativa de Sorocaba
+355410;Taubaté;RA de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;Região Administrativa de São José dos Campos
+355420;Tejupá;RA de Itapeva;Demais municípios;Região Administrativa de Itapeva
+355430;Teodoro Sampaio;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+355440;Terra Roxa;RA de Barretos;Demais municípios;Região Administrativa de Barretos
+355450;Tietê;RA de Sorocaba;RM de Sorocaba;Região Administrativa de Sorocaba
+355460;Timburi;RA de Marília;Demais municípios;Região Administrativa de Marília
+355465;Torre de Pedra;RA de Sorocaba;Demais municípios;Região Administrativa de Sorocaba
+355470;Torrinha;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+355475;Trabiju;RA Central;Demais municípios;Região Administrativa Central
+355480;Tremembé;RA de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;Região Administrativa de São José dos Campos
+355490;Três Fronteiras;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+355495;Tuiuti;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+355500;Tupã;RA de Marília;Demais municípios;Região Administrativa de Marília
+355510;Tupi Paulista;RA de Presidente Prudente;Demais municípios;Região Administrativa de Presidente Prudente
+355520;Turiúba;RA de Araçatuba;Demais municípios;Região Administrativa de Araçatuba
+355530;Turmalina;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+355535;Ubarana;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+355540;Ubatuba;RA de São José dos Campos;RM do Vale do Paraíba e Litoral Norte;Região Administrativa de São José dos Campos
+355550;Ubirajara;RA de Bauru;Demais municípios;Região Administrativa de Bauru
+355560;Uchoa;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+355570;União Paulista;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+355580;Urânia;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+355590;Uru;RA de Bauru;Demais municípios;Região Administrativa de Bauru
+355600;Urupês;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+355610;Valentim Gentil;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+355620;Valinhos;RA de Campinas;RM de Campinas;Região Administrativa de Campinas
+355630;Valparaíso;RA de Araçatuba;Demais municípios;Região Administrativa de Araçatuba
+355635;Vargem;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+355640;Vargem Grande do Sul;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+355645;Vargem Grande Paulista;RM de São Paulo;RM de São Paulo;Região Metropolitana de São Paulo
+355650;Várzea Paulista;RA de Campinas;Demais municípios;Região Administrativa de Campinas
+355660;Vera Cruz;RA de Marília;Demais municípios;Região Administrativa de Marília
+355670;Vinhedo;RA de Campinas;RM de Campinas;Região Administrativa de Campinas
+355680;Viradouro;RA de Barretos;Demais municípios;Região Administrativa de Barretos
+355690;Vista Alegre do Alto;RA de Barretos;Demais municípios;Região Administrativa de Barretos
+355695;Vitória Brasil;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+355700;Votorantim;RA de Sorocaba;RM de Sorocaba;Região Administrativa de Sorocaba
+355710;Votuporanga;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+355715;Zacarias;RA de São José do Rio Preto;Demais municípios;Região Administrativa de São José do Rio Preto
+355720;Chavantes;RA de Marília;Demais municípios;Região Administrativa de Marília
+355730;Estiva Gerbi;RA de Campinas;Demais municípios;Região Administrativa de Campinas

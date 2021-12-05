@@ -1,0 +1,5 @@
+Variável;Tipo;Descrição;Fonte
+Data;data;Último mês do trimestre referente;IBGE/PNAD Contínua. Fundação Seade.
+Região;texto;Região;IBGE/PNAD Contínua. Fundação Seade.
+Tipo_Ocupação;texto;Categoria da ocupação quanto à contribuição ao INSS (Total, Contribuinte do INSS, Não contribuinte do INSS);IBGE/PNAD Contínua. Fundação Seade.
+Índice;numérico;Índice de ocupação (base: Março/2017 = 100);IBGE/PNAD Contínua. Fundação Seade.

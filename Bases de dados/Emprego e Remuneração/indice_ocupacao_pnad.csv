@@ -1,0 +1,811 @@
+Data;Região;Tipo_Ocupação;Índice
+01/03/2017;Estado de São Paulo;Total;100,0
+01/06/2017;Estado de São Paulo;Total;101,2
+01/09/2017;Estado de São Paulo;Total;102,1
+01/12/2017;Estado de São Paulo;Total;102,5
+01/03/2018;Estado de São Paulo;Total;101,8
+01/06/2018;Estado de São Paulo;Total;102,2
+01/09/2018;Estado de São Paulo;Total;103,7
+01/12/2018;Estado de São Paulo;Total;104,1
+01/03/2019;Estado de São Paulo;Total;103,7
+01/06/2019;Estado de São Paulo;Total;105,4
+01/09/2019;Estado de São Paulo;Total;106,5
+01/12/2019;Estado de São Paulo;Total;106,8
+01/03/2020;Estado de São Paulo;Total;104,4
+01/06/2020;Estado de São Paulo;Total;93,4
+01/09/2020;Estado de São Paulo;Total;91,8
+01/12/2020;Estado de São Paulo;Total;95,4
+01/03/2021;Estado de São Paulo;Total;95,9
+01/06/2021;Estado de São Paulo;Total;98,1
+01/03/2017;Estado de São Paulo;Contribuinte do INSS;100,0
+01/06/2017;Estado de São Paulo;Contribuinte do INSS;100,2
+01/09/2017;Estado de São Paulo;Contribuinte do INSS;100,2
+01/12/2017;Estado de São Paulo;Contribuinte do INSS;99,1
+01/03/2018;Estado de São Paulo;Contribuinte do INSS;97,9
+01/06/2018;Estado de São Paulo;Contribuinte do INSS;97,9
+01/09/2018;Estado de São Paulo;Contribuinte do INSS;98,7
+01/12/2018;Estado de São Paulo;Contribuinte do INSS;99,2
+01/03/2019;Estado de São Paulo;Contribuinte do INSS;100,0
+01/06/2019;Estado de São Paulo;Contribuinte do INSS;100,7
+01/09/2019;Estado de São Paulo;Contribuinte do INSS;100,3
+01/12/2019;Estado de São Paulo;Contribuinte do INSS;102,7
+01/03/2020;Estado de São Paulo;Contribuinte do INSS;100,1
+01/06/2020;Estado de São Paulo;Contribuinte do INSS;91,9
+01/09/2020;Estado de São Paulo;Contribuinte do INSS;89,9
+01/12/2020;Estado de São Paulo;Contribuinte do INSS;92,4
+01/03/2021;Estado de São Paulo;Contribuinte do INSS;95,0
+01/06/2021;Estado de São Paulo;Contribuinte do INSS;94,1
+01/03/2017;Estado de São Paulo;Não contribuinte do INSS;100,0
+01/06/2017;Estado de São Paulo;Não contribuinte do INSS;104,2
+01/09/2017;Estado de São Paulo;Não contribuinte do INSS;107,8
+01/12/2017;Estado de São Paulo;Não contribuinte do INSS;112,8
+01/03/2018;Estado de São Paulo;Não contribuinte do INSS;113,3
+01/06/2018;Estado de São Paulo;Não contribuinte do INSS;115,5
+01/09/2018;Estado de São Paulo;Não contribuinte do INSS;118,5
+01/12/2018;Estado de São Paulo;Não contribuinte do INSS;118,8
+01/03/2019;Estado de São Paulo;Não contribuinte do INSS;115,0
+01/06/2019;Estado de São Paulo;Não contribuinte do INSS;119,4
+01/09/2019;Estado de São Paulo;Não contribuinte do INSS;124,9
+01/12/2019;Estado de São Paulo;Não contribuinte do INSS;119,1
+01/03/2020;Estado de São Paulo;Não contribuinte do INSS;117,4
+01/06/2020;Estado de São Paulo;Não contribuinte do INSS;97,8
+01/09/2020;Estado de São Paulo;Não contribuinte do INSS;97,7
+01/12/2020;Estado de São Paulo;Não contribuinte do INSS;104,7
+01/03/2021;Estado de São Paulo;Não contribuinte do INSS;98,4
+01/06/2021;Estado de São Paulo;Não contribuinte do INSS;110,1
+01/03/2017;Região Metropolitana de São Paulo;Total;100,0
+01/06/2017;Região Metropolitana de São Paulo;Total;101,4
+01/09/2017;Região Metropolitana de São Paulo;Total;102,9
+01/12/2017;Região Metropolitana de São Paulo;Total;102,8
+01/03/2018;Região Metropolitana de São Paulo;Total;102,7
+01/06/2018;Região Metropolitana de São Paulo;Total;102,0
+01/09/2018;Região Metropolitana de São Paulo;Total;103,4
+01/12/2018;Região Metropolitana de São Paulo;Total;102,9
+01/03/2019;Região Metropolitana de São Paulo;Total;102,2
+01/06/2019;Região Metropolitana de São Paulo;Total;104,0
+01/09/2019;Região Metropolitana de São Paulo;Total;105,7
+01/12/2019;Região Metropolitana de São Paulo;Total;105,1
+01/03/2020;Região Metropolitana de São Paulo;Total;102,4
+01/06/2020;Região Metropolitana de São Paulo;Total;90,5
+01/09/2020;Região Metropolitana de São Paulo;Total;90,8
+01/12/2020;Região Metropolitana de São Paulo;Total;93,1
+01/03/2021;Região Metropolitana de São Paulo;Total;95,9
+01/06/2021;Região Metropolitana de São Paulo;Total;98,8
+01/03/2017;Região Metropolitana de São Paulo;Contribuinte do INSS;100,0
+01/06/2017;Região Metropolitana de São Paulo;Contribuinte do INSS;99,9
+01/09/2017;Região Metropolitana de São Paulo;Contribuinte do INSS;100,5
+01/12/2017;Região Metropolitana de São Paulo;Contribuinte do INSS;99,2
+01/03/2018;Região Metropolitana de São Paulo;Contribuinte do INSS;98,6
+01/06/2018;Região Metropolitana de São Paulo;Contribuinte do INSS;97,0
+01/09/2018;Região Metropolitana de São Paulo;Contribuinte do INSS;97,7
+01/12/2018;Região Metropolitana de São Paulo;Contribuinte do INSS;96,5
+01/03/2019;Região Metropolitana de São Paulo;Contribuinte do INSS;97,4
+01/06/2019;Região Metropolitana de São Paulo;Contribuinte do INSS;99,1
+01/09/2019;Região Metropolitana de São Paulo;Contribuinte do INSS;99,1
+01/12/2019;Região Metropolitana de São Paulo;Contribuinte do INSS;99,6
+01/03/2020;Região Metropolitana de São Paulo;Contribuinte do INSS;97,9
+01/06/2020;Região Metropolitana de São Paulo;Contribuinte do INSS;91,3
+01/09/2020;Região Metropolitana de São Paulo;Contribuinte do INSS;90,2
+01/12/2020;Região Metropolitana de São Paulo;Contribuinte do INSS;91,6
+01/03/2021;Região Metropolitana de São Paulo;Contribuinte do INSS;96,5
+01/06/2021;Região Metropolitana de São Paulo;Contribuinte do INSS;95,5
+01/03/2017;Região Metropolitana de São Paulo;Não contribuinte do INSS;100,0
+01/06/2017;Região Metropolitana de São Paulo;Não contribuinte do INSS;106,0
+01/09/2017;Região Metropolitana de São Paulo;Não contribuinte do INSS;110,0
+01/12/2017;Região Metropolitana de São Paulo;Não contribuinte do INSS;113,2
+01/03/2018;Região Metropolitana de São Paulo;Não contribuinte do INSS;114,9
+01/06/2018;Região Metropolitana de São Paulo;Não contribuinte do INSS;116,6
+01/09/2018;Região Metropolitana de São Paulo;Não contribuinte do INSS;120,3
+01/12/2018;Região Metropolitana de São Paulo;Não contribuinte do INSS;121,6
+01/03/2019;Região Metropolitana de São Paulo;Não contribuinte do INSS;116,3
+01/06/2019;Região Metropolitana de São Paulo;Não contribuinte do INSS;118,5
+01/09/2019;Região Metropolitana de São Paulo;Não contribuinte do INSS;125,0
+01/12/2019;Região Metropolitana de São Paulo;Não contribuinte do INSS;120,9
+01/03/2020;Região Metropolitana de São Paulo;Não contribuinte do INSS;115,6
+01/06/2020;Região Metropolitana de São Paulo;Não contribuinte do INSS;88,1
+01/09/2020;Região Metropolitana de São Paulo;Não contribuinte do INSS;92,6
+01/12/2020;Região Metropolitana de São Paulo;Não contribuinte do INSS;97,4
+01/03/2021;Região Metropolitana de São Paulo;Não contribuinte do INSS;94,0
+01/06/2021;Região Metropolitana de São Paulo;Não contribuinte do INSS;108,5
+01/03/2017;ESP exceto RMSP;Total;100,0
+01/06/2017;ESP exceto RMSP;Total;100,9
+01/09/2017;ESP exceto RMSP;Total;101,4
+01/12/2017;ESP exceto RMSP;Total;102,2
+01/03/2018;ESP exceto RMSP;Total;100,9
+01/06/2018;ESP exceto RMSP;Total;102,5
+01/09/2018;ESP exceto RMSP;Total;103,9
+01/12/2018;ESP exceto RMSP;Total;105,2
+01/03/2019;ESP exceto RMSP;Total;105,2
+01/06/2019;ESP exceto RMSP;Total;106,7
+01/09/2019;ESP exceto RMSP;Total;107,2
+01/12/2019;ESP exceto RMSP;Total;108,4
+01/03/2020;ESP exceto RMSP;Total;106,3
+01/06/2020;ESP exceto RMSP;Total;96,1
+01/09/2020;ESP exceto RMSP;Total;92,8
+01/12/2020;ESP exceto RMSP;Total;97,6
+01/03/2021;ESP exceto RMSP;Total;95,9
+01/06/2021;ESP exceto RMSP;Total;97,5
+01/03/2017;ESP exceto RMSP;Contribuinte do INSS;100,0
+01/06/2017;ESP exceto RMSP;Contribuinte do INSS;100,4
+01/09/2017;ESP exceto RMSP;Contribuinte do INSS;100,0
+01/12/2017;ESP exceto RMSP;Contribuinte do INSS;98,9
+01/03/2018;ESP exceto RMSP;Contribuinte do INSS;97,4
+01/06/2018;ESP exceto RMSP;Contribuinte do INSS;98,6
+01/09/2018;ESP exceto RMSP;Contribuinte do INSS;99,7
+01/12/2018;ESP exceto RMSP;Contribuinte do INSS;101,7
+01/03/2019;ESP exceto RMSP;Contribuinte do INSS;102,4
+01/06/2019;ESP exceto RMSP;Contribuinte do INSS;102,3
+01/09/2019;ESP exceto RMSP;Contribuinte do INSS;101,5
+01/12/2019;ESP exceto RMSP;Contribuinte do INSS;105,5
+01/03/2020;ESP exceto RMSP;Contribuinte do INSS;102,1
+01/06/2020;ESP exceto RMSP;Contribuinte do INSS;92,5
+01/09/2020;ESP exceto RMSP;Contribuinte do INSS;89,6
+01/12/2020;ESP exceto RMSP;Contribuinte do INSS;93,1
+01/03/2021;ESP exceto RMSP;Contribuinte do INSS;93,7
+01/06/2021;ESP exceto RMSP;Contribuinte do INSS;92,9
+01/03/2017;ESP exceto RMSP;Não contribuinte do INSS;100,0
+01/06/2017;ESP exceto RMSP;Não contribuinte do INSS;102,4
+01/09/2017;ESP exceto RMSP;Não contribuinte do INSS;105,7
+01/12/2017;ESP exceto RMSP;Não contribuinte do INSS;112,4
+01/03/2018;ESP exceto RMSP;Não contribuinte do INSS;111,8
+01/06/2018;ESP exceto RMSP;Não contribuinte do INSS;114,3
+01/09/2018;ESP exceto RMSP;Não contribuinte do INSS;116,8
+01/12/2018;ESP exceto RMSP;Não contribuinte do INSS;116,2
+01/03/2019;ESP exceto RMSP;Não contribuinte do INSS;113,7
+01/06/2019;ESP exceto RMSP;Não contribuinte do INSS;120,3
+01/09/2019;ESP exceto RMSP;Não contribuinte do INSS;124,9
+01/12/2019;ESP exceto RMSP;Não contribuinte do INSS;117,4
+01/03/2020;ESP exceto RMSP;Não contribuinte do INSS;119,2
+01/06/2020;ESP exceto RMSP;Não contribuinte do INSS;107,2
+01/09/2020;ESP exceto RMSP;Não contribuinte do INSS;102,6
+01/12/2020;ESP exceto RMSP;Não contribuinte do INSS;111,7
+01/03/2021;ESP exceto RMSP;Não contribuinte do INSS;102,6
+01/06/2021;ESP exceto RMSP;Não contribuinte do INSS;111,7
+01/03/2017;Município de São Paulo;Total;100,0
+01/06/2017;Município de São Paulo;Total;101,9
+01/09/2017;Município de São Paulo;Total;102,8
+01/12/2017;Município de São Paulo;Total;101,5
+01/03/2018;Município de São Paulo;Total;100,4
+01/06/2018;Município de São Paulo;Total;99,4
+01/09/2018;Município de São Paulo;Total;101,5
+01/12/2018;Município de São Paulo;Total;101,3
+01/03/2019;Município de São Paulo;Total;101,5
+01/06/2019;Município de São Paulo;Total;102,7
+01/09/2019;Município de São Paulo;Total;105,6
+01/12/2019;Município de São Paulo;Total;104,7
+01/03/2020;Município de São Paulo;Total;102,9
+01/06/2020;Município de São Paulo;Total;90,3
+01/09/2020;Município de São Paulo;Total;89,1
+01/12/2020;Município de São Paulo;Total;90,0
+01/03/2021;Município de São Paulo;Total;92,4
+01/06/2021;Município de São Paulo;Total;96,4
+01/03/2017;Município de São Paulo;Contribuinte do INSS;100,0
+01/06/2017;Município de São Paulo;Contribuinte do INSS;99,8
+01/09/2017;Município de São Paulo;Contribuinte do INSS;99,5
+01/12/2017;Município de São Paulo;Contribuinte do INSS;98,6
+01/03/2018;Município de São Paulo;Contribuinte do INSS;96,9
+01/06/2018;Município de São Paulo;Contribuinte do INSS;95,4
+01/09/2018;Município de São Paulo;Contribuinte do INSS;96,1
+01/12/2018;Município de São Paulo;Contribuinte do INSS;95,5
+01/03/2019;Município de São Paulo;Contribuinte do INSS;98,1
+01/06/2019;Município de São Paulo;Contribuinte do INSS;99,1
+01/09/2019;Município de São Paulo;Contribuinte do INSS;99,0
+01/12/2019;Município de São Paulo;Contribuinte do INSS;98,6
+01/03/2020;Município de São Paulo;Contribuinte do INSS;99,1
+01/06/2020;Município de São Paulo;Contribuinte do INSS;91,2
+01/09/2020;Município de São Paulo;Contribuinte do INSS;88,8
+01/12/2020;Município de São Paulo;Contribuinte do INSS;87,2
+01/03/2021;Município de São Paulo;Contribuinte do INSS;93,5
+01/06/2021;Município de São Paulo;Contribuinte do INSS;94,5
+01/03/2017;Município de São Paulo;Não contribuinte do INSS;100,0
+01/06/2017;Município de São Paulo;Não contribuinte do INSS;108,1
+01/09/2017;Município de São Paulo;Não contribuinte do INSS;112,3
+01/12/2017;Município de São Paulo;Não contribuinte do INSS;110,1
+01/03/2018;Município de São Paulo;Não contribuinte do INSS;110,5
+01/06/2018;Município de São Paulo;Não contribuinte do INSS;111,2
+01/09/2018;Município de São Paulo;Não contribuinte do INSS;117,3
+01/12/2018;Município de São Paulo;Não contribuinte do INSS;118,0
+01/03/2019;Município de São Paulo;Não contribuinte do INSS;111,4
+01/06/2019;Município de São Paulo;Não contribuinte do INSS;113,2
+01/09/2019;Município de São Paulo;Não contribuinte do INSS;124,8
+01/12/2019;Município de São Paulo;Não contribuinte do INSS;122,5
+01/03/2020;Município de São Paulo;Não contribuinte do INSS;114,0
+01/06/2020;Município de São Paulo;Não contribuinte do INSS;87,5
+01/09/2020;Município de São Paulo;Não contribuinte do INSS;90,3
+01/12/2020;Município de São Paulo;Não contribuinte do INSS;98,2
+01/03/2021;Município de São Paulo;Não contribuinte do INSS;89,0
+01/06/2021;Município de São Paulo;Não contribuinte do INSS;101,8
+01/03/2017;Brasil;Total;100,0
+01/06/2017;Brasil;Total;101,5
+01/09/2017;Brasil;Total;102,7
+01/12/2017;Brasil;Total;103,6
+01/03/2018;Brasil;Total;101,9
+01/06/2018;Brasil;Total;102,7
+01/09/2018;Brasil;Total;104,2
+01/12/2018;Brasil;Total;104,7
+01/03/2019;Brasil;Total;103,7
+01/06/2019;Brasil;Total;105,4
+01/09/2019;Brasil;Total;105,9
+01/12/2019;Brasil;Total;106,7
+01/03/2020;Brasil;Total;104,1
+01/06/2020;Brasil;Total;94,1
+01/09/2020;Brasil;Total;93,1
+01/12/2020;Brasil;Total;97,3
+01/03/2021;Brasil;Total;96,7
+01/06/2021;Brasil;Total;99,1
+01/03/2017;Brasil;Contribuinte do INSS;100,0
+01/06/2017;Brasil;Contribuinte do INSS;100,3
+01/09/2017;Brasil;Contribuinte do INSS;100,9
+01/12/2017;Brasil;Contribuinte do INSS;101,2
+01/03/2018;Brasil;Contribuinte do INSS;100,0
+01/06/2018;Brasil;Contribuinte do INSS;100,6
+01/09/2018;Brasil;Contribuinte do INSS;101,1
+01/12/2018;Brasil;Contribuinte do INSS;101,8
+01/03/2019;Brasil;Contribuinte do INSS;101,4
+01/06/2019;Brasil;Contribuinte do INSS;101,7
+01/09/2019;Brasil;Contribuinte do INSS;101,5
+01/12/2019;Brasil;Contribuinte do INSS;103,1
+01/03/2020;Brasil;Contribuinte do INSS;101,4
+01/06/2020;Brasil;Contribuinte do INSS;95,9
+01/09/2020;Brasil;Contribuinte do INSS;93,2
+01/12/2020;Brasil;Contribuinte do INSS;96,0
+01/03/2021;Brasil;Contribuinte do INSS;95,7
+01/06/2021;Brasil;Contribuinte do INSS;96,3
+01/03/2017;Brasil;Não contribuinte do INSS;100,0
+01/06/2017;Brasil;Não contribuinte do INSS;103,7
+01/09/2017;Brasil;Não contribuinte do INSS;106,1
+01/12/2017;Brasil;Não contribuinte do INSS;108,1
+01/03/2018;Brasil;Não contribuinte do INSS;105,5
+01/06/2018;Brasil;Não contribuinte do INSS;106,6
+01/09/2018;Brasil;Não contribuinte do INSS;110,0
+01/12/2018;Brasil;Não contribuinte do INSS;110,2
+01/03/2019;Brasil;Não contribuinte do INSS;108,0
+01/06/2019;Brasil;Não contribuinte do INSS;112,2
+01/09/2019;Brasil;Não contribuinte do INSS;114,0
+01/12/2019;Brasil;Não contribuinte do INSS;113,5
+01/03/2020;Brasil;Não contribuinte do INSS;109,1
+01/06/2020;Brasil;Não contribuinte do INSS;90,8
+01/09/2020;Brasil;Não contribuinte do INSS;92,9
+01/12/2020;Brasil;Não contribuinte do INSS;99,8
+01/03/2021;Brasil;Não contribuinte do INSS;98,5
+01/06/2021;Brasil;Não contribuinte do INSS;104,4
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
