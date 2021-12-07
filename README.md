@@ -5,36 +5,59 @@ Busco encontrar uma maneira de visualizar a relação que a desigualdade social 
 O Projeto conta com 5 Dashboards, sendo elas:
 
 1 - Painel Geral:
+
 Dados:
+
 a. Aglomerados Subnormais
+
 b. Leitos de Internação por Município
+
 c. Municípios de Extrema Pobreza
+
 d. Recorte de Vacinação por Município
+
 e. Confirmados e óbitos
     
 2 - Rendimento(SP):
+
 Dados:
+
 a. Rendimento Domiciliar per Capita
+
 b. Departamentos Regionais de Saúde
+
 c. Contaminação e óbitos
 
 3 - Analfabetismo(SP):
+
 Dados:
+
 a. Taxa de Analfabetismo por Etnia
+
 b. Departamentos Regionais de Saúde
+
 c. Contaminação e óbitos
     
 4 - Saneamento(SP):
+
 Dados:
+
 a. Quadro Geral do Saneamento por Tópicos e Quesitos Municipais
+
 b. Departamentos Regionais de Saúde
+
 c. Contaminação e óbitos
     
 5 - Ocupação e Desocupação(SP):
+
 Dados:
+
 a. Variação da Ocupação
+
 b. Taxa de Desocupação
+
 c. Departamentos Regionais de Saúde
+
 d. Contaminação e óbitos
     
 O projeto ainda se encontra em andamento e as visualizações de cada relatório estão sendo trabalhadas. Abaixo serão encontradas as visualizações de cada relatório conforme forem sendo finalizadas:
