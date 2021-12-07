@@ -8,61 +8,61 @@ O Projeto conta com 5 Dashboards, sendo elas:
 
 Dados:
 
-a. Aglomerados Subnormais
+a. Aglomerados Subnormais;
 
-b. Leitos de Internação por Município
+b. Leitos de Internação por Município;
 
-c. Municípios de Extrema Pobreza
+c. Municípios de Extrema Pobreza;
 
-d. Recorte de Vacinação por Município
+d. Recorte de Vacinação por Município;
 
-e. Confirmados e óbitos
+e. Confirmados e óbitos.
     
     
 2 - Rendimento(SP):
 
 Dados:
 
-a. Rendimento Domiciliar per Capita
+a. Rendimento Domiciliar per Capita;
 
-b. Departamentos Regionais de Saúde
+b. Departamentos Regionais de Saúde;
 
-c. Contaminação e óbitos
+c. Contaminação e óbitos.
 
 
 3 - Analfabetismo(SP):
 
 Dados:
 
-a. Taxa de Analfabetismo por Etnia
+a. Taxa de Analfabetismo por Etnia;
 
-b. Departamentos Regionais de Saúde
+b. Departamentos Regionais de Saúde;
 
-c. Contaminação e óbitos
+c. Contaminação e óbitos.
     
     
 4 - Saneamento(SP):
 
 Dados:
 
-a. Quadro Geral do Saneamento por Tópicos e Quesitos Municipais
+a. Quadro Geral do Saneamento por Tópicos e Quesitos Municipais;
 
-b. Departamentos Regionais de Saúde
+b. Departamentos Regionais de Saúde;
 
-c. Contaminação e óbitos
+c. Contaminação e óbitos.
     
     
 5 - Ocupação e Desocupação(SP):
 
 Dados:
 
-a. Variação da Ocupação
+a. Variação da Ocupação;
 
-b. Taxa de Desocupação
+b. Taxa de Desocupação;
 
-c. Departamentos Regionais de Saúde
+c. Departamentos Regionais de Saúde;
 
-d. Contaminação e óbitos
+d. Contaminação e óbitos.
     
 O projeto ainda se encontra em andamento e as visualizações de cada relatório estão sendo trabalhadas. Abaixo serão encontradas as visualizações de cada relatório conforme forem sendo finalizadas:
 
