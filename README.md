@@ -18,6 +18,7 @@ d. Recorte de Vacinação por Município
 
 e. Confirmados e óbitos
     
+    
 2 - Rendimento(SP):
 
 Dados:
@@ -27,6 +28,7 @@ a. Rendimento Domiciliar per Capita
 b. Departamentos Regionais de Saúde
 
 c. Contaminação e óbitos
+
 
 3 - Analfabetismo(SP):
 
@@ -38,6 +40,7 @@ b. Departamentos Regionais de Saúde
 
 c. Contaminação e óbitos
     
+    
 4 - Saneamento(SP):
 
 Dados:
@@ -47,6 +50,7 @@ a. Quadro Geral do Saneamento por Tópicos e Quesitos Municipais
 b. Departamentos Regionais de Saúde
 
 c. Contaminação e óbitos
+    
     
 5 - Ocupação e Desocupação(SP):
 
