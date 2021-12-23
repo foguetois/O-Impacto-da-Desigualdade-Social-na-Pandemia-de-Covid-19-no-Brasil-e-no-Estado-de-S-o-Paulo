@@ -1,0 +1,73 @@
+1 - Painel Geral:
+
+Dados:
+
+a. Aglomerados Subnormais;
+Link: http://tabnet.datasus.gov.br/cgi/deftohtm.exe?cnes/cnv/leiintbr.def
+
+b. Leitos de Internação por Município;
+Link: http://tabnet.datasus.gov.br/cgi/deftohtm.exe?cnes/cnv/leiintbr.def
+
+c. Municípios de Extrema Pobreza;
+Link: http://tabnet.datasus.gov.br/cgi/deftohtm.exe?cnes/cnv/leiintbr.def
+
+d. Recorte de Vacinação por Município;
+Link: https://repositorio.seade.gov.br/dataset/nomes-codigos-municipios-esp
+
+e. Confirmados e óbitos.
+Link: https://brasil.io/dataset/covid19/caso/?is_last=True
+
+2 - Rendimento(SP):
+
+Dados:
+
+a. Rendimento Domiciliar per Capita;
+Link: Esperando o site do IBGE voltar
+
+b. Departamentos Regionais de Saúde;
+Link: https://repositorio.seade.gov.br/dataset/nomes-codigos-municipios-esp
+
+c. Contaminação e óbitos.
+Link: https://brasil.io/dataset/covid19/caso/?is_last=True
+
+3 - Analfabetismo(SP):
+
+Dados: Esperando o site do IBGE voltar
+
+a. Taxa de Analfabetismo por Etnia;
+Link:
+
+b. Departamentos Regionais de Saúde;
+Link: https://repositorio.seade.gov.br/dataset/nomes-codigos-municipios-esp
+
+c. Contaminação e óbitos.
+Link: https://brasil.io/dataset/covid19/caso/?is_last=True
+
+4 - Saneamento(SP):
+
+Dados:
+
+a. Quadro Geral do Saneamento por Tópicos e Quesitos Municipais;
+Link: https://painel.tce.sp.gov.br/pentaho/api/repos/%3Apublic%3ASaneamento%3Asaneamento.wcdf/generatedContent?userid=anony&password=zero
+
+b. Departamentos Regionais de Saúde;
+Link: https://repositorio.seade.gov.br/dataset/nomes-codigos-municipios-esp
+
+c. Contaminação e óbitos.
+Link: https://brasil.io/dataset/covid19/caso/?is_last=True
+
+5 - Ocupação e Desocupação(SP):
+
+Dados:
+
+a. Variação da Ocupação;
+Link: https://repositorio.seade.gov.br/dataset/ocupacao-e-rendimento
+
+b. Taxa de Desocupação;
+Link: https://repositorio.seade.gov.br/dataset/ocupacao-e-rendimento
+
+c. Departamentos Regionais de Saúde;
+Link: https://repositorio.seade.gov.br/dataset/nomes-codigos-municipios-esp
+
+d. Contaminação e óbitos.
+Link: https://brasil.io/dataset/covid19/caso/?is_last=True
