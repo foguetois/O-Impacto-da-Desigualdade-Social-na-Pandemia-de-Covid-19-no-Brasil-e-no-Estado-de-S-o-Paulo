@@ -70,11 +70,11 @@ Relatório Painel Geral:
 
 Relatório Rendimento:
 
-[2.0 Rendimento Sprint 3.pdf](https://github.com/HarrisonCaetanoCandido/O-Impacto-da-Desigualdade-Social-na-Pandemia-de-Covid-19-no-Brasil-e-no-Estado-de-Sao-Paulo/files/7770038/2.0.Rendimento.Sprint.3.pdf)
+![2 0 Rendimento Sprint 3](https://user-images.githubusercontent.com/90016924/147259985-ce7b5bfe-4aad-419d-a5f3-1e5982f24669.jpg)
 
 Relatório Analfabetismo:
 
-[Educacional Sprint 3.pdf](https://github.com/HarrisonCaetanoCandido/O-Impacto-da-Desigualdade-Social-na-Pandemia-de-Covid-19-no-Brasil-e-no-Estado-de-Sao-Paulo/files/7770043/Educacional.Sprint.3.pdf)
+![Educacional Sprint 3](https://user-images.githubusercontent.com/90016924/147259967-4f15f343-6844-4bb7-b965-eac4bd4325be.jpg)
 
 Relatório Saneamento:
 
